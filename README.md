@@ -50,7 +50,11 @@
 </p>
 
 ---
-# 📊 GitHub Status
+ 
+
+---
+
+## 📊 GitHub Status
 
 <div align="center">
 
@@ -66,7 +70,7 @@
     alt="Top Languages" 
   />
 
-  <!-- GitHub Streak (use Demolab endpoint, not Heroku) -->
+  <!-- GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=chintu-cloud&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
@@ -79,6 +83,21 @@
   />
 
 </div>
+
+---
+
+## 🛠️ Skills & Tools
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform  
+- **Programming:** Python, Java, JavaScript, HTML5  
+- **Monitoring:** Prometheus, Grafana  
+- **CI/CD & Automation:** Git, Maven, Selenium  
+
+---
+
+
+
+
+
 
 ---
 
