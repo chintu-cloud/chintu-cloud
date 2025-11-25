@@ -50,30 +50,32 @@
 </p>
 
 ---
+# 📊 GitHub Status
+
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=21600"
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=21600" 
+    alt="GitHub Stats" 
   />
 
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=21600"
-    alt="Top Languages"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=21600" 
+    alt="Top Languages" 
   />
 
-  <!-- Streak Stats (use Demolab, not Heroku) -->
-  <img
-    src="https://streak-stats.demolab.com?user=chintu-cloud&theme=radical&hide_border=true"
-    alt="GitHub Streak"
+  <!-- GitHub Streak (use Demolab endpoint, not Heroku) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=chintu-cloud&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
   />
 
-  <!-- Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1"
-    alt="GitHub Trophies"
+  <!-- GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1" 
+    alt="GitHub Trophies" 
   />
 
 </div>
