@@ -112,28 +112,29 @@
 Help our monkey grow strong by feeding it 🍌 with your contributions!
 
 ## 🎯 How to play
-- ⭐ Star the repo → +1 🍌
-- 🐛 Open a helpful issue → +2 🍌
-- 🔧 Submit a PR (fix/feature/docs) → +3 🍌
-- 🧪 Add tests or improve CI → +4 🍌
+- ⭐ Star the repo → **+1 🍌**
+- 🐛 Open a helpful issue → **+2 🍌**
+- 🔧 Make a PR (feature/fix/docs) → **+3 🍌**
+- 🧪 Add tests or improve CI/CD → **+4 🍌**
+- 👀 Review a PR with actionable feedback → **+2 🍌**
+- 🧹 Triaging (labels, reproductions) → **+2 🍌**
 
-Add yourself to the leaderboard (below) via PR, and include the right number of 🍌 in your commit message or PR description.
-
-> Tip: Keep contributions small and frequent—you’ll rack up bananas fast!
+Include bananas in your PR/issue description:
+`Claim: +X 🍌 | Link: <URL> | @your-handle total: Y`
 
 ---
 
 ## 🪙 Levels
-- Level 1: 0–5 🍌 — Baby Monkey
-- Level 2: 6–15 🍌 — Parkour Monkey
-- Level 3: 16–30 🍌 — Jungle Scout
-- Level 4: 31–60 🍌 — Banana Baron
-- Level 5: 61+ 🍌 — King of the Canopy
+- 0–5 🍌 — Baby Monkey
+- 6–15 🍌 — Parkour Monkey
+- 16–30 🍌 — Jungle Scout
+- 31–60 🍌 — Banana Baron
+- 61+ 🍌 — King of the Canopy
 
 ---
 
 ## 🏆 Leaderboard
-> Add your handle and update your bananas via PR. Honest play only!
+> Add yourself via PR and keep it honest.
 
 | Rank | Contributor | Bananas 🍌 | Level |
 |------|-------------|------------|-------|
@@ -141,51 +142,31 @@ Add yourself to the leaderboard (below) via PR, and include the right number of 
 
 ---
 
-## 📜 Rules
-- **Authenticity:** Only count real, helpful contributions.
-- **Transparency:** Mention your banana count in PRs or issues.
-- **Fair play:** No spam; maintainers may adjust scores.
-- **Cadence:** Multiple small PRs are welcome—quality first.
-
----
-
-## 🎁 Bonus quests
-- **Docs polish:** Improve README sections or examples → +2 🍌
-- **Design touch:** Add badges, icons, or visuals → +2 🍌
-- **Mentor mode:** Review someone else’s PR thoughtfully → +2 🍌
-- **Issue triage:** Label or reproduce a bug with steps → +2 🍌
-
----
-
 ## 🐵 Monkey meter
-Track the monkey’s mood with emojis. Update as the total bananas grow.
+Track mood by total bananas:
+- 😴 (0–5) → 🙂 (6–15) → 😄 (16–30) → 🤩 (31–60) → 👑 (61+)
 
-- Total bananas: `0`
-- Mood: 😴 → 🙂 → 😄 → 🤩 → 👑
-
----
-
-## 📨 How to claim bananas (template)
-
-Copy this into your PR or issue description:
-
-
-Maintainers: verify and update the leaderboard table.
+`Total bananas: 0 | Mood: 😴`
 
 ---
 
-## 📦 Starter tasks for new players
-- **Label tidy:** Add missing labels to top 5 issues → +2 🍌
-- **README tweak:** Fix typos or clarify steps → +2 🍌
-- **Example run:** Add a minimal usage snippet → +3 🍌
-- **CI love:** Suggest a badge or workflow improvement → +3 🍌
+## 📜 Rules
+- **Authenticity:** Count only helpful, verifiable contributions.
+- **Transparency:** Post your banana claim with a link.
+- **Quality-first:** Small, meaningful PRs beat spam.
+- **Maintainers:** May adjust scores if needed.
 
 ---
 
-## 🔄 Optional automation (future-ready)
-- **Score script:** A simple script can tally stars/issues/PRs and update the leaderboard.
-- **Scheduled updates:** Weekly refresh of totals to keep momentum.
+## 🎁 Bonus quests (optional)
+- **Docs polish:** Improve README or examples → **+2 🍌**
+- **DevOps boost:** Add badges, workflows, or pipelines → **+3 🍌**
+- **Observability:** Add metrics or dashboards → **+3 🍌**
+- **Security:** Add checks or harden configs → **+3 🍌**
 
+---
+
+## 📨 PR claim template
 
 
 
