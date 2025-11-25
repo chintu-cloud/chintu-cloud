@@ -2,11 +2,9 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+    - cron: "0 */24 * *"   # runs daily at 00:00 UTC
   workflow_dispatch:       # manual trigger
-  push:
-    branches:
-      - main
+ 
 
 jobs:
   build:
@@ -15,8 +13,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          github_user_name: "chintu-cloud"
+          outputs: 
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
       - name: Push to output branch
