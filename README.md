@@ -17,36 +17,51 @@
 
 ---
 
-## 🔧 Skills and Tools
+## 🔧 Languages and Tools
 <p align="center">
+
   <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws" />
+
   <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=docker" />
+
   <!-- Kubernetes -->
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+
   <!-- Jenkins -->
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+
   <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" />
+
   <!-- GitLab -->
-  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" />
+
   <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git" />
+
   <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=linux" />
+
   <!-- Ansible -->
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ansible" />
+
   <!-- Terraform -->
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=terraform" />
+
   <!-- Prometheus -->
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" />
+
   <!-- Grafana -->
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=grafana" />
+
   <!-- Maven -->
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=maven" />
+
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+
 </p>
 
 ---
@@ -67,6 +82,9 @@
 
 </div>
 
+
+ ## 🏆 GitHub Trophies
+
 <div align="center">
 
   <!-- GitHub Trophies -->
@@ -83,11 +101,40 @@
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform  
 - **Programming:** Python, Java, JavaScript, HTML5  
 - **Monitoring:** Prometheus, Grafana  
-- **CI/CD & Automation:** Git, Maven, Selenium  
+- **CI/CD & Automation:** Git, Maven 
 
 ---
 
+# 🎮 Play a Game in README
 
+## Tic-Tac-Toe
+
+Let's play right here in Markdown!  
+Pick a spot (1–9) and mark it with ❌ or ⭕.
+
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
+**Rules:**
+- Player 1 is ❌, Player 2 is ⭕
+- Take turns editing the README and replacing numbers with your symbol
+- First to get 3 in a row wins!
+
+---
+
+## 🔢 Number Guessing Game
+
+Think of a number between **1 and 20**.  
+Scroll down slowly to reveal the answer...
+
+<details>
+<summary>Click to reveal the secret number!</summary>
+
+🎉 The secret number is **7**! Did you guess it?
+
+</details>
 
 
 
