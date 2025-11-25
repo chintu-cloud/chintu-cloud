@@ -56,8 +56,6 @@
 
 ## 📊 GitHub Status
 
-
-
 <div align="center">
 
   <!-- GitHub Stats -->
@@ -78,6 +76,9 @@
     alt="GitHub Streak" 
   />
 
+</div>
+
+<div align="center">
 
   <!-- GitHub Trophies -->
   <img 
