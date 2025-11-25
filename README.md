@@ -104,14 +104,9 @@
 - **CI/CD & Automation:** Git, Maven 
 
 ---
-## 📂 Projects
-- **Cloud Deployment with EC2 + Maven**  
-  Automated builds & deployments with reusable troubleshooting guides.  
-- **CI/CD Pipeline with Jenkins & Ansible**  
-  End‑to‑end automation for scalable microservices.  
-- **GitHub Profile Branding**  
-  Stylish README with badges, widgets, and grouped tech icons. 
-
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake-dark.svg#gh-dark-mode-only)
 
 
 
