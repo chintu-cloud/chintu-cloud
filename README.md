@@ -104,9 +104,6 @@
 - **CI/CD & Automation:** Git, Maven 
 
 ---
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake-dark.svg#gh-dark-mode-only)
 
 
 
