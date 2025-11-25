@@ -107,34 +107,84 @@
 
 # 🎮 Play a Game in README
 
-## Tic-Tac-Toe
+# 🐒 Contribution Monkey
 
-Let's play right here in Markdown!  
-Pick a spot (1–9) and mark it with ❌ or ⭕.
+Help our monkey grow strong by feeding it 🍌 with your contributions!
 
-| 1 | 2 | 3 |
-|---|---|---|
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
+## 🎯 How to play
+- ⭐ Star the repo → +1 🍌
+- 🐛 Open a helpful issue → +2 🍌
+- 🔧 Submit a PR (fix/feature/docs) → +3 🍌
+- 🧪 Add tests or improve CI → +4 🍌
 
-**Rules:**
-- Player 1 is ❌, Player 2 is ⭕
-- Take turns editing the README and replacing numbers with your symbol
-- First to get 3 in a row wins!
+Add yourself to the leaderboard (below) via PR, and include the right number of 🍌 in your commit message or PR description.
+
+> Tip: Keep contributions small and frequent—you’ll rack up bananas fast!
 
 ---
 
-## 🔢 Number Guessing Game
+## 🪙 Levels
+- Level 1: 0–5 🍌 — Baby Monkey
+- Level 2: 6–15 🍌 — Parkour Monkey
+- Level 3: 16–30 🍌 — Jungle Scout
+- Level 4: 31–60 🍌 — Banana Baron
+- Level 5: 61+ 🍌 — King of the Canopy
 
-Think of a number between **1 and 20**.  
-Scroll down slowly to reveal the answer...
+---
 
-<details>
-<summary>Click to reveal the secret number!</summary>
+## 🏆 Leaderboard
+> Add your handle and update your bananas via PR. Honest play only!
 
-🎉 The secret number is **7**! Did you guess it?
+| Rank | Contributor | Bananas 🍌 | Level |
+|------|-------------|------------|-------|
+| 1    | @your-handle | 0          | Baby Monkey |
 
-</details>
+---
+
+## 📜 Rules
+- **Authenticity:** Only count real, helpful contributions.
+- **Transparency:** Mention your banana count in PRs or issues.
+- **Fair play:** No spam; maintainers may adjust scores.
+- **Cadence:** Multiple small PRs are welcome—quality first.
+
+---
+
+## 🎁 Bonus quests
+- **Docs polish:** Improve README sections or examples → +2 🍌
+- **Design touch:** Add badges, icons, or visuals → +2 🍌
+- **Mentor mode:** Review someone else’s PR thoughtfully → +2 🍌
+- **Issue triage:** Label or reproduce a bug with steps → +2 🍌
+
+---
+
+## 🐵 Monkey meter
+Track the monkey’s mood with emojis. Update as the total bananas grow.
+
+- Total bananas: `0`
+- Mood: 😴 → 🙂 → 😄 → 🤩 → 👑
+
+---
+
+## 📨 How to claim bananas (template)
+
+Copy this into your PR or issue description:
+
+
+Maintainers: verify and update the leaderboard table.
+
+---
+
+## 📦 Starter tasks for new players
+- **Label tidy:** Add missing labels to top 5 issues → +2 🍌
+- **README tweak:** Fix typos or clarify steps → +2 🍌
+- **Example run:** Add a minimal usage snippet → +3 🍌
+- **CI love:** Suggest a badge or workflow improvement → +3 🍌
+
+---
+
+## 🔄 Optional automation (future-ready)
+- **Score script:** A simple script can tally stars/issues/PRs and update the leaderboard.
+- **Scheduled updates:** Weekly refresh of totals to keep momentum.
 
 
 
