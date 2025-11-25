@@ -58,17 +58,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=21600" 
-    alt="GitHub Stats" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=21600" 
-    alt="Top Languages" 
-  />
 
   <!-- GitHub Streak -->
   <img 
