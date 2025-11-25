@@ -104,69 +104,15 @@
 - **CI/CD & Automation:** Git, Maven 
 
 ---
+## 📂 Projects
+- **Cloud Deployment with EC2 + Maven**  
+  Automated builds & deployments with reusable troubleshooting guides.  
+- **CI/CD Pipeline with Jenkins & Ansible**  
+  End‑to‑end automation for scalable microservices.  
+- **GitHub Profile Branding**  
+  Stylish README with badges, widgets, and grouped tech icons. 
 
-# 🎮 Play a Game in README
 
-# 🐒 Contribution Monkey
-
-Help our monkey grow strong by feeding it 🍌 with your contributions!
-
-## 🎯 How to play
-- ⭐ Star the repo → **+1 🍌**
-- 🐛 Open a helpful issue → **+2 🍌**
-- 🔧 Make a PR (feature/fix/docs) → **+3 🍌**
-- 🧪 Add tests or improve CI/CD → **+4 🍌**
-- 👀 Review a PR with actionable feedback → **+2 🍌**
-- 🧹 Triaging (labels, reproductions) → **+2 🍌**
-
-Include bananas in your PR/issue description:
-`Claim: +X 🍌 | Link: <URL> | @your-handle total: Y`
-
----
-
-## 🪙 Levels
-- 0–5 🍌 — Baby Monkey
-- 6–15 🍌 — Parkour Monkey
-- 16–30 🍌 — Jungle Scout
-- 31–60 🍌 — Banana Baron
-- 61+ 🍌 — King of the Canopy
-
----
-
-## 🏆 Leaderboard
-> Add yourself via PR and keep it honest.
-
-| Rank | Contributor | Bananas 🍌 | Level |
-|------|-------------|------------|-------|
-| 1    | @your-handle | 0          | Baby Monkey |
-
----
-
-## 🐵 Monkey meter
-Track mood by total bananas:
-- 😴 (0–5) → 🙂 (6–15) → 😄 (16–30) → 🤩 (31–60) → 👑 (61+)
-
-`Total bananas: 0 | Mood: 😴`
-
----
-
-## 📜 Rules
-- **Authenticity:** Count only helpful, verifiable contributions.
-- **Transparency:** Post your banana claim with a link.
-- **Quality-first:** Small, meaningful PRs beat spam.
-- **Maintainers:** May adjust scores if needed.
-
----
-
-## 🎁 Bonus quests (optional)
-- **Docs polish:** Improve README or examples → **+2 🍌**
-- **DevOps boost:** Add badges, workflows, or pipelines → **+3 🍌**
-- **Observability:** Add metrics or dashboards → **+3 🍌**
-- **Security:** Add checks or harden configs → **+3 🍌**
-
----
-
-## 📨 PR claim template
 
 
 
