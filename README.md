@@ -74,9 +74,10 @@
 ---
 
 ## 📜 Certificates 
-<a href="https://nptel.ac.in/noc/certificate/your-certificate-id">
-  
-</a>
+<a href="https://nptel.ac.in/noc/certificate/your-certificate-id">![NPTEL24CS35S55240050230452914_page-0001](https://github.com/user-attachments/assets/ef13a645-cc94-4b12-bbf8-6aef930b3352)</a>
+<a href="https://nptel.ac.in/noc/certificate/your-certificate-id">![Computer Networks And Internet Protocol_page-0001](https://github.com/user-attachments/assets/f54d5641-3cd6-4468-ac78-b1087f9130bf)</a>
+<a href="https://nptel.ac.in/noc/certificate/your-certificate-id">![Cloud Computing_page-0001](https://github.com/user-attachments/assets/d42beef9-6f19-4e5a-b637-5f80430eba32)</a>
+
 
 
 
