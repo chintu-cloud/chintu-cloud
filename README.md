@@ -39,13 +39,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintu-cloud&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
