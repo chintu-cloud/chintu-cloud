@@ -65,18 +65,6 @@
 </p>
 
 ---
-## snake contribution file
-- name: Commit Snake to README
-  run: |
-    git config --global user.name "github-actions[bot]"
-    git config --global user.email "github-actions[bot]@users.noreply.github.com"
-    git checkout main
-    if ! grep -q "github-contribution-grid-snake.svg" README.md; then
-      echo '![GitHub Snake](https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/github-contribution-grid-snake.svg)' >> README.md
-    fi
-    git add README.md
-    git commit -m "Update README with Snake animation" || echo "No changes to commit"
-    git push
  
 
 ---
