@@ -71,7 +71,6 @@
 
 ## 📊 GitHub Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chintu-cloud&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 <div align="center">
