@@ -73,7 +73,6 @@
 
 <div align="center">
 
-
   <!-- GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=chintu-cloud&theme=radical&hide_border=true" 
@@ -82,6 +81,8 @@
 
 </div>
 
+
+---
 
  ## 🏆 GitHub Trophies
 
