@@ -81,17 +81,11 @@
 
 ---
 
- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-  <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1" 
-    alt="GitHub Trophies" 
-  />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
