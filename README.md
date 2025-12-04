@@ -65,28 +65,13 @@
 
 </p>
 
----
- 
-
----
-
-
-
 ## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
-</p>
-
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1)
 
 ## 🛠️ Skills & Tools
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform  
