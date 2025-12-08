@@ -1,100 +1,49 @@
-
 # Hi 👋, I'm CHANDAN MOHANTY  
 ✨ A Passionate DevOps Engineer from India ✨  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
 
 ---
 
 ## 🚀 About Me
-- 🔬 I’m currently working on: **DevOps Projects**  
-- 🌱 I’m currently learning: **DevOps with AWS**  
-- 💝 I’m looking to collaborate on: **Exciting DevOps Projects**  
-- 🤝 I’m looking for help with: **Advanced DevOps Automation**  
+- 🔬 Currently working on: **DevOps Projects**  
+- 🌱 Learning: **DevOps with AWS**  
+- 💝 Open to collaborate on: **Exciting DevOps Projects**  
+- 🤝 Looking for help with: **Advanced DevOps Automation**  
 - 💭 Ask me about: **DevOps, AWS, and Cloud Solutions**  
-- 📧 How to reach me: **cmohanty154@gmail.com**
+- 📧 Reach me at: **cmohanty154@gmail.com**
 
 ---
 
-## 🔧 Languages and Tools
+## 🔧 Languages & Tools
 <p align="center">
-
-  <!-- AWS -->
-  <img src="https://skillicons.dev/icons?i=aws" />
-
-  <!-- Docker -->
-  <img src="https://skillicons.dev/icons?i=docker" />
-
-  <!-- Kubernetes -->
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-
-  <!-- Jenkins -->
-  <img src="https://skillicons.dev/icons?i=jenkins" />
-
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" />
-
-  <!-- GitLab -->
-  <img src="https://skillicons.dev/icons?i=gitlab" />
-
-  <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" />
-
-  <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux" />
-
-  <!-- Ansible -->
-  <img src="https://skillicons.dev/icons?i=ansible" />
-
-  <!-- Terraform -->
-  <img src="https://skillicons.dev/icons?i=terraform" />
-
-  <!-- Prometheus -->
-  <img src="https://skillicons.dev/icons?i=prometheus" />
-
-  <!-- Grafana -->
-  <img src="https://skillicons.dev/icons?i=grafana" />
-
-  <!-- Maven -->
-  <img src="https://skillicons.dev/icons?i=maven" />
-
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" />
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python" />
 </p>
 
-## 📊 GitHub Status
+---
 
-<div align="center">
+## 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
-</div>
+</p>
 
+---
 
-
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform  
 - **Programming:** Python, Java, JavaScript, HTML5  
 - **Monitoring:** Prometheus, Grafana  
-- **CI/CD & Automation:** Git, Maven 
+- **CI/CD & Automation:** Git, Maven  
 
 ---
-
-
-
-
----
-
-
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -104,7 +53,3 @@
   <a href="https://www.linkedin.com/in/chandan-mohanty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/Naukri.com-2C8EDD?style=for-the-badge&logo=naukri&logoColor=white"/></a>
 </p>
-
-
-
-
