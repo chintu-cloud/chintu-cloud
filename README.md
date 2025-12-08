@@ -31,9 +31,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintu-cloud&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -50,6 +48,13 @@
 - **Programming:** Python, Java, JavaScript, HTML5  
 - **Monitoring:** Prometheus, Grafana  
 - **CI/CD & Automation:** Git, Maven  
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
@@ -80,7 +85,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
-</p>
+
