@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # every 12 hours
+  schedule: # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # allow manual trigger
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,11 +14,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Full history so git push works
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: chintu-cloud
+          github_user_name: chintu-cloud   # <-- replace with your GitHub username
           outputs: dist/snake.svg
 
       - name: Push Snake to output branch
