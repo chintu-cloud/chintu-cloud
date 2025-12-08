@@ -69,6 +69,13 @@
 
 ---
 
+## 🖼️ Dynamic Banner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Specialist;Full+Stack+Developer;Always+Learning+Always+Building" alt="Typing Animation"/>
+</p>
+
+---
+
 ## ✨ Fun Extras
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
@@ -77,12 +84,5 @@
 ---
 
 
-
-## 🖼️ Dynamic Banner
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Specialist;Full+Stack+Developer;Always+Learning+Always+Building" alt="Typing Animation"/>
-</p>
-
----
 
 
