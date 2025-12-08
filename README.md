@@ -2,7 +2,9 @@
 ✨ A Passionate DevOps Engineer from India ✨  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
+
 ![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?style=social)
 
 ---
