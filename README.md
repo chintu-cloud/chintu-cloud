@@ -3,6 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?style=social)
 
 ---
 
@@ -73,4 +74,18 @@
 ## 🎶 Vibe While Coding
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7j4q7zj7z7z7z7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+</p>
+
+---
+
+## 🖼️ Dynamic Banner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Specialist;Full+Stack+Developer;Always+Learning+Always+Building" alt="Typing Animation"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/chintu-cloud/chintu-cloud/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
