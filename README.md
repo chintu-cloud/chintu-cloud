@@ -11,6 +11,16 @@
 > 💡 *Automating the future, one pipeline at a time.*
 
 ---
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:cmohanty154@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://gitlab.com/chintu-cloud"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://github.com/chintu-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandan-mohanty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/Naukri.com-2C8EDD?style=for-the-badge&logo=naukri&logoColor=white"/></a>
+</p>
+
+---
 
 ## 🚀 About Me
 - 🔬 Currently working on: **DevOps Projects**  
@@ -58,16 +68,7 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:cmohanty154@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://gitlab.com/chintu-cloud"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-  <a href="https://github.com/chintu-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chandan-mohanty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/Naukri.com-2C8EDD?style=for-the-badge&logo=naukri&logoColor=white"/></a>
-</p>
 
----
 
 ## 🖼️ Dynamic Banner
 <p align="center">
