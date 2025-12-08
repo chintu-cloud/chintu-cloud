@@ -2,9 +2,7 @@
 ✨ A Passionate DevOps Engineer from India ✨  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
-
 ![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?style=social)
 
 ---
@@ -73,12 +71,7 @@
 
 ---
 
-## 🎶 Vibe While Coding
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7j4q7zj7z7z7z7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
 
----
 
 ## 🖼️ Dynamic Banner
 <p align="center">
@@ -89,5 +82,5 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/chintu-cloud/chintu-cloud/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
 </p>
