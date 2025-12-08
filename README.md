@@ -1,5 +1,10 @@
+
+
+---
+## 👨‍💻 About Me
 # Hi 👋, I'm CHANDAN MOHANTY  
-✨ A Passionate DevOps Engineer from India ✨  
+a passionate **DevOps Engineer & Full‑Stack Developer** from India.  
+I specialize in **cloud automation, CI/CD pipelines, and scalable infrastructure** with hands‑on expertise in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
@@ -7,10 +12,9 @@
 
 ---
 
-## 🎨 Personal Motto
-> 💡 *Automating the future, one pipeline at a time.*
 
----
+
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:cmohanty154@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -54,11 +58,20 @@
 ---
 
 ## 🛠️ Skills
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform  
-- **Programming:** Python, Java, JavaScript, HTML5  
-- **Monitoring:** Prometheus, Grafana  
-- **CI/CD & Automation:** Git, Maven  
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch)  
+- 🐳 **Containers & Orchestration:** Docker, Kubernetes  
+- 🔧 **Automation & IaC:** Terraform, Ansible  
+- ⚡ **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI  
+- 📊 **Monitoring:** Prometheus, Grafana  
+- 💻 **Programming:** Python, Java, JavaScript, Flask, Spring Boot   
 
+---
+## 🌟 What Drives Me
+- 🚀 Building **scalable cloud solutions** with automation at the core  
+- 🛠️ Designing **modular Terraform modules** and reproducible infrastructure  
+- 📚 Writing **beginner‑friendly guides** with diagrams and polished documentation  
+- 🤝 Collaborating on **open‑source DevOps projects**
+  
 ---
 
 ## 🐍 Contribution Snake
