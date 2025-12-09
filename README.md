@@ -1,8 +1,8 @@
 
 
 ---
-## 👨‍💻 welcome to my GitHub profile
 # Hi 👋, I'm CHANDAN MOHANTY  
+---
 🖥 a passionate **DevOps Engineer & Full‑Stack Developer** from India.  
 🖥 I specialize in **cloud automation, CI/CD pipelines, and scalable infrastructure** with hands‑on expertise in:
 
