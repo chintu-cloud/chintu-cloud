@@ -92,16 +92,7 @@
 
 ---
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{
-      labels:['Commits','Pull Requests','Issues'],
-      datasets:[{
-        data:[67,5,3],
-        backgroundColor:['#ff6384','#36a2eb','#ffcd56']
-      }]
-    }
-  }&width=420&height=420" alt="Classic Pie Chart"/>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
 
 
