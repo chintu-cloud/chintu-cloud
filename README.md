@@ -90,50 +90,24 @@
 </p>
 
 ---
-<!-- Pie Chart: Contributions by category -->
-<div align="center">
-  <canvas id="contribPie" width="420" height="420"></canvas>
-</div>
+## ✨ Fun Extras
 
-<!-- Chart.js CDN -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
+</p>
 
-<script>
-  const ctx = document.getElementById('contribPie');
-
-  // Replace labels and data with your categories and counts
-  const data = {
-    labels: ['Code Commits', 'Pull Requests', 'Issues', 'Docs', 'Reviews'],
-    datasets: [{
-      data: [120, 35, 18, 22, 40], // <-- your numbers here
-      backgroundColor: ['#ff6384','#36a2eb','#ffcd56','#4bc0c0','#9966ff'],
-      borderColor: '#0d1117',
-      borderWidth: 2
-    }]
-  };
-
-  new Chart(ctx, {
-    type: 'pie',
-    data: data,
-    options: {
-      plugins: {
-        legend: {
-          position: 'bottom',
-          labels: {
-            color: '#c9d1d9',
-            boxWidth: 14
-          }
-        },
-        title: {
-          display: true,
-          text: 'Contribution Breakdown',
-          color: '#c9d1d9',
-          font: { weight: '600', size: 16 }
-        }
-      }
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Commits','Pull Requests','Issues','Docs','Reviews'],
+      datasets:[{
+        data:[120,35,18,22,40],
+        backgroundColor:['#ff6384','#36a2eb','#ffcd56','#4bc0c0','#9966ff']
+      }]
     }
-  });
-</script>
+  }" alt="Contribution Pie Chart"/>
+</p>
 
 
 
