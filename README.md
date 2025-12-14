@@ -85,12 +85,9 @@
 ---
 
 ## ✨ Fun Extras
-
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
 ---
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jan%22%2C%22Feb%22%2C%22Mar%22%2C%22Apr%22%2C%22May%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B12%2C19%2C3%2C5%2C8%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%2336a2eb%22%7D%5D%7D%7D&width=500&height=300" alt="Line Chart"/>
-</p>
+
 
