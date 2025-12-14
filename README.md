@@ -88,28 +88,25 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
 </p>
-
----
 <p align="center">
   <img src="https://quickchart.io/chart?c={
     type:'pie',
     data:{
-      labels:['Commits','Pull Requests','Issues','Docs','Reviews'],
+      labels:['Commits','Pull Requests','Issues'],
       datasets:[{
-        data:[120,35,18,22,40],
-        backgroundColor:['#ff6384','#36a2eb','#ffcd56','#4bc0c0','#9966ff'],
-        borderColor:'#222',
-        borderWidth:3
+        data:[67,5,3],
+        backgroundColor:['#ff6384','#36a2eb','#ffcd56']
       }]
     },
     options:{
       plugins:{
-        legend:{position:'bottom'},
-        title:{display:true,text:'Contribution Pie with Shadow'}
+        title:{display:true,text:'GitHub Contributions Breakdown'}
       }
     }
-  }&width=420&height=420" alt="Shadow Pie Chart"/>
+  }&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
+
+---
 
 
 
