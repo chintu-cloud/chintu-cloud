@@ -88,6 +88,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
 </p>
+
+
+---
+## ✨ Fun Extras
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
+</p>
+
 <p align="center">
   <img src="https://quickchart.io/chart?c={
     type:'pie',
@@ -105,8 +114,5 @@
     }
   }&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
-
----
-
 
 
