@@ -1,9 +1,6 @@
 
 # Hi 👋, I'm CHANDAN MOHANTY  
 
-🖥 a passionate **DevOps Engineer & Full‑Stack Developer** from India.  
-🖥 I specialize in **cloud automation, CI/CD pipelines, and scalable infrastructure** with hands‑on expertise in:
-
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?style=social)
