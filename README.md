@@ -109,21 +109,34 @@
 ----
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B
-    %22type%22%3A%22doughnut%22%2C
+    %22type%22%3A%22radar%22%2C
     %22data%22%3A%7B
       %22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C
       %22datasets%22%3A%5B%7B
+        %22label%22%3A%22Contributions%22%2C
         %22data%22%3A%5B67%2C5%2C3%5D%2C
-        %22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%2C
-        %22borderWidth%22%3A6%2C
-        %22borderColor%22%3A%22%230d1117%22
+        %22backgroundColor%22%3A%22rgba(255%2C99%2C132%2C0.4)%22%2C
+        %22borderColor%22%3A%22%23ff6384%22%2C
+        %22pointBackgroundColor%22%3A%22%23ffcd56%22%2C
+        %22pointBorderColor%22%3A%22%23fff%22%2C
+        %22pointHoverBackgroundColor%22%3A%22%2336a2eb%22%2C
+        %22pointHoverBorderColor%22%3A%22%23fff%22
       %7D%5D
     %7D%2C
     %22options%22%3A%7B
-      %22cutout%22%3A%2230%25%22%2C
+      %22elements%22%3A%7B
+        %22line%22%3A%7B%22borderWidth%22%3A3%7D
+      %7D%2C
+      %22scales%22%3A%7B
+        %22r%22%3A%7B
+          %22angleLines%22%3A%7B%22color%22%3A%22%23aaa%22%7D%2C
+          %22grid%22%3A%7B%22color%22%3A%22%23333%22%7D%2C
+          %22pointLabels%22%3A%7B%22color%22%3A%22%23fff%22%7D
+        %7D
+      %7D%2C
       %22plugins%22%3A%7B
-        %22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Contributions%20(3D%20Style)%22%7D
+        %22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22GitHub%20Contributions%20Radar%20(Beautiful%20Style)%22%2C%22color%22%3A%22%23fff%22%7D
       %7D
     %7D
-  %7D&width=420&height=420" alt="3D Donut Chart"/>
+  %7D&width=420&height=420&backgroundColor=black" alt="Beautiful Radar Chart"/>
 </p>
