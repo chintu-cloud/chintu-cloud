@@ -51,7 +51,7 @@
 </p>
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=radical"/>
+  <img height="180" src="https://github-readme-streak-stats.vercel.app?user=chintu-cloud&theme=radical"/>
 </p>
 
 <p align="center">
