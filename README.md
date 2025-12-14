@@ -85,63 +85,12 @@
 ---
 
 ## ✨ Fun Extras
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=radical" alt="Contribution Graph"/>
-</p>
 
-
----
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
 ---
-Got it — you don’t want **pie charts** anymore, but you’d still like to show some kind of chart or visualization in your GitHub README. Since GitHub only supports static images, the best way is to embed **QuickChart** links with different chart types. Here are some alternatives you can use:
-
----
-
-## 📈 1. Bar Chart
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Contributions%22%2C%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=500&height=300" alt="Bar Chart"/>
-</p>
-```
-
----
-
-## 📊 2. Line Chart
-
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jan%22%2C%22Feb%22%2C%22Mar%22%2C%22Apr%22%2C%22May%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B12%2C19%2C3%2C5%2C8%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%2336a2eb%22%7D%5D%7D%7D&width=500&height=300" alt="Line Chart"/>
 </p>
-```
-
----
-
-## 📉 3. Horizontal Bar Chart
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Contributions%22%2C%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=500&height=300" alt="Horizontal Bar Chart"/>
-</p>
-```
-
----
-
-## 🌐 4. Radar Chart (styled)
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Contributions%22%2C%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%22rgba(54%2C162%2C235%2C0.2)%22%2C%22borderColor%22%3A%22%2336a2eb%22%2C%22pointBackgroundColor%22%3A%22%23ffcd56%22%7D%5D%7D%7D&width=420&height=420" alt="Radar Chart"/>
-</p>
-```
-
----
-
-### ✨ How to Use
-- Copy any of these `<p align="center"> ... </p>` blocks into your `README.md`.  
-- Push to your GitHub profile repo (`chintu-cloud/chintu-cloud`).  
-- Refresh your profile — the chart will appear.  
-- You can change `labels`, `data`, and `colors` to match your stats or theme.  
-
----
-
-👉 I can also prepare a **section with multiple charts side‑by‑side** (bar + line + radar) so your README looks like a dashboard. Would you like me to design that layout for you?
 
