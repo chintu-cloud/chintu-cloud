@@ -44,8 +44,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintu-cloud&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
 </p>
