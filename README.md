@@ -49,10 +49,67 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
 </p>
-
-
+---
+Perfect — you can swap out the `theme=tokyonight` parameter with any of the supported themes to instantly change the look of your GitHub stats cards. Here are some popular alternatives you can try with your username `chintu-cloud`:
 
 ---
+
+## 🎨 Radical Theme
+ <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=radical"/>
+</p>
+```
+
+---
+
+## 🦇 Dracula Theme
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=dracula"/>
+</p>
+```
+
+---
+
+## 🎶 Gruvbox Theme
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=gruvbox"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=gruvbox"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=gruvbox"/>
+</p>
+```
+
+---
+
+## 🌌 Dark Theme
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=dark"/>
+</p>
+```
+
+---
+
+
 
 
 
