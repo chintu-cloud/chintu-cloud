@@ -94,5 +94,15 @@
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=420&height=420" alt="Contribution Pie Chart"/>
 </p>
-
-
+---
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%2C%22borderWidth%22%3A4%2C%22borderColor%22%3A%22%230d1117%22%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2240%25%22%7D%7D&width=420&height=420" alt="Donut Chart"/>
+</p>
+---
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%5B%22%23ff6384%22%2C%22%2336a2eb%22%2C%22%23ffcd56%22%5D%7D%5D%7D%7D&width=420&height=420" alt="Polar Area Chart"/>
+</p>
+----
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commits%22%2C%22Pull%20Requests%22%2C%22Issues%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Contributions%22%2C%22data%22%3A%5B67%2C5%2C3%5D%2C%22backgroundColor%22%3A%22rgba(54%2C162%2C235%2C0.2)%22%2C%22borderColor%22%3A%22%2336a2eb%22%2C%22pointBackgroundColor%22%3A%22%2336a2eb%22%7D%5D%7D%7D&width=420&height=420" alt="Radar Chart"/>
+</p>
