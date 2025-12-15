@@ -65,13 +65,7 @@
 - 💻 **Programming:** Python, Java, JavaScript, Flask, Spring Boot   
 
 ---
-## 🌟 What Drives Me
-- 🚀 Building **scalable cloud solutions** with automation at the core  
-- 🛠️ Designing **modular Terraform modules** and reproducible infrastructure  
-- 📚 Writing **beginner‑friendly guides** with diagrams and polished documentation  
-- 🤝 Collaborating on **open‑source DevOps projects**
-  
----
+
 
 ## 🐍 Contribution Snake
 <p align="center">
