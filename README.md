@@ -15,7 +15,7 @@
   <a href="https://gitlab.com/chintu-cloud"><img src="https://skillicons.dev/icons?i=gitlab" width="30"/> GitLab</a> •
   <a href="https://github.com/chintu-cloud"><img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub</a> •
   <a href="https://www.linkedin.com/in/chandan-mohanty"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/> LinkedIn</a> •
- <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="30" alt="Naukri"/></a>
+  <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="60" alt="Naukri"/></a>•
 </p>
 
 
