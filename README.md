@@ -20,6 +20,14 @@
     <img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="100" alt="Naukri"/> Naukri
   </a>
 </p>
+## 🤖 Connect With Me
+<p align="center">
+  <a href="mailto:cmohanty154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/></a>
+  <a href="https://gitlab.com/chintu-cloud"><img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab"/></a>
+  <a href="https://github.com/chintu-cloud"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/chandan-mohanty"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="100" alt="Naukri"/></a>
+</p>
 
 ---
 
