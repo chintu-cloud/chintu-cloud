@@ -1,6 +1,6 @@
 
 # Hi 🙋,
-# 🧑‍💻 I'm CHANDAN MOHANTY  
+# 🧑‍💻 I'm CHANDAN 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
