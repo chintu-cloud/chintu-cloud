@@ -38,19 +38,30 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img alt="GitHub Streak" height="180"
-       src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight&hide_border=true"/>
+  <!-- Streak Stats -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" 
+       height="180"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" height="180"
-       src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
-  <img alt="Top Languages" height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
+  <!-- Overall Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats" 
+       height="180"/>
+  
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" 
+       height="180"/>
 </p>
-
   
 ---
 
