@@ -40,12 +40,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight"/>
+  <img alt="GitHub Streak" height="180"
+       src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight&hide_border=true"/>
 </p>
-  <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
-  </p>
+
+<p align="center">
+  <img alt="GitHub Stats" height="180"
+       src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
+  <img alt="Top Languages" height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
+</p>
 
   
 ---
