@@ -48,11 +48,7 @@
 </p> 
 
   
----
 
-## 🏆 GitHub Profile Trophy Workflow
-
-![trophy](https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=onedark&row=2&column=3)
 
 ---
 
