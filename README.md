@@ -52,7 +52,7 @@
 
 ## 🏆 GitHub Profile Trophy Workflow
 
-![Trophies](https://github.com/chintu-cloud/chintu-cloud/blob/output/trophies.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=onedark)
 
 ---
 
