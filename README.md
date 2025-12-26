@@ -50,10 +50,11 @@
   
 ---
 
+## 🏆 GitHub Profile Trophy Workflow
 
+![Trophies](https://github.com/chintu-cloud/chintu-cloud/blob/output/trophies.svg)
 
-
-
+---
 
 
 ## 🛠️ Skills
