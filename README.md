@@ -68,18 +68,43 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Themes
 
 <p align="center">
-  <!-- Red-Yellow-Green Theme -->
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-red-yellow-green.svg" alt="Contribution Snake Red-Yellow-Green"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-red-yellow-green.svg" alt="Red-Yellow-Green Snake"/>
 </p>
 
 <p align="center">
-  <!-- Rainbow Gradient Theme -->
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-rainbow.svg" alt="Contribution Snake Rainbow"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-pastel.svg" alt="Pastel Rainbow Snake"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-cyberpunk.svg" alt="Cyberpunk Neon Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-golden.svg" alt="Golden Glow Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-ocean.svg" alt="Ocean Blue Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-candy.svg" alt="Candy Pink Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-emerald.svg" alt="Emerald Green Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-midnight.svg" alt="Midnight Purple Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-sky.svg" alt="Sky Blue Snake"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stay%20Consistent-2962FF?style=for-the-badge&logo=git&logoColor=white" />
