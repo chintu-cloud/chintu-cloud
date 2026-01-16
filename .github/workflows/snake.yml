@@ -17,13 +17,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Custom Red Snake, Yellow Dots, Light Green Background
+      # Red Snake, Yellow Dots, Light Green Background
       - name: Generate Snake (Red-Yellow-Green Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud
           outputs: |
             dist/snake-red-yellow-green.svg?color_snake=#FF0000&color_dots=#FFD700&color_bg=#90EE90
+
+      # Rainbow Gradient Snake
+      - name: Generate Snake (Rainbow Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-rainbow.svg?color_snake=linear-gradient(#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF)&color_dots=#FFFFFF&color_bg=#000000
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
