@@ -68,14 +68,17 @@
 
 ---
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution Snake
 
 <p align="center">
+  <!-- Red-Yellow-Green Theme -->
   <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-red-yellow-green.svg" alt="Contribution Snake Red-Yellow-Green"/>
 </p>
 
-
----
+<p align="center">
+  <!-- Rainbow Gradient Theme -->
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-rainbow.svg" alt="Contribution Snake Rainbow"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
