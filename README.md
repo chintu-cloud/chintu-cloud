@@ -1,9 +1,9 @@
 
 # Hi 🙋, I'm Chandan Mohanty
 
-![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&color=1E90FF&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?color=FFD700&style=for-the-badge&label=Stars)
 
 ---
 
@@ -19,23 +19,7 @@
   <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="100" alt="Naukri"/></a>
 </p>
 
----
 
-## 🎶 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true"/>
-</p>
-
----
-
-## 🐦 Latest Tweet
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_HANDLE&theme=tokyonight"/>
-  </a>
-</p>
 
 ---
 
