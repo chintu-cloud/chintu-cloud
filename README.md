@@ -35,9 +35,7 @@
 
 
 ## 🎨 Languages & Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html" /></p> converts too small
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=10&size=30" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=8&size=40" />
 
 ---
 
