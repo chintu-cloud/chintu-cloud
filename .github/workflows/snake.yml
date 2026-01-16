@@ -15,28 +15,31 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Full history so git push works
+          fetch-depth: 0
 
-      - name: Generate Snake (Default Dark Theme)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: chintu-cloud   # <-- replace with your GitHub username
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Generate Snake (Light Theme)
+      # Custom Yellow Snake with Black Background
+      - name: Generate Snake (Yellow Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud
           outputs: |
-            dist/snake-light.svg?palette=github-light
+            dist/snake-yellow.svg?color_snake=#FFD700&color_dots=#FFEB3B&color_bg=#000000
 
-      - name: Generate Snake (Custom Neon Theme)
+      # Neon Snake with Dark Gray Background
+      - name: Generate Snake (Neon Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud
           outputs: |
-            dist/snake-neon.svg?color_snake=#00ffcc&color_dots=#ff00ff&color_bg=#000000
+            dist/snake-neon.svg?color_snake=#00FFFF&color_dots=#FF00FF&color_bg=#1A1A1A
+
+      # Sunset Snake with Purple Background
+      - name: Generate Snake (Sunset Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-sunset.svg?color_snake=#FFB300&color_dots=#FFE082&color_bg=#2C2C54
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
