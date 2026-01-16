@@ -71,9 +71,7 @@
 
 ---
 
-### 8. **Motivational Badges**
-Keep only 2–3 for impact.
-```markdown
+
 <p align="center">
   <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stay%20Consistent-2962FF?style=for-the-badge&logo=git&logoColor=white" />
