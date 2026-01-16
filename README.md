@@ -1,16 +1,13 @@
-
 # Hi 🙋, I'm Chandan Mohanty
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu-cloud&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/chintu-cloud?label=Followers&color=1E90FF&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/chintu-cloud?color=FFD700&style=for-the-badge&label=Stars)
 
+
 ---
 
-
-
-## 🤖 Connect With Me
-
+# 🤖 Connect With Me
 <p align="center">
   <a href="mailto:cmohanty154@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/></a>
   <a href="https://gitlab.com/chintu-cloud"><img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab"/></a>
@@ -19,104 +16,82 @@
   <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="100" alt="Naukri"/></a>
 </p>
 
-
+```
 
 ---
 
+
 ## 🚀 About Me
-- 🔬 Currently working on: **DevOps Projects**  
-- 🌱 Learning: **DevOps with AWS**  
-- 💝 Open to collaborate on: **Exciting DevOps Projects**  
-- 🤝 Looking for help with: **Advanced DevOps Automation**  
-- 💭 Ask me about: **DevOps, AWS, and Cloud Solutions**  
+- 🔬 Working on: **DevOps Projects**
+- 🌱 Learning: **AWS & Advanced DevOps Automation**
+- 💝 Open to collaborate on: **Cloud & DevOps Projects**
+- 💭 Ask me about: **AWS, DevOps, Cloud Solutions**
 - 📧 Reach me at: **cmohanty154@gmail.com**
+```
 
 ---
 
 
 ## 🎨 Languages & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=16&size=20" />
-
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=10" />
+```
 
 ---
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <p align="center">
-  <!-- Streak Stats -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight"/>
 </p>
-
 <p align="center">
-  <!-- Overall Stats -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
-  <!-- Top Languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
 </p>
-
+```
 
 ---
 
 
 ## 🛠️ Skills
-- ☁️ **Cloud Platforms:** AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch)  
-- 🐳 **Containers & Orchestration:** Docker, Kubernetes  
-- 🔧 **Automation & IaC:** Terraform, Ansible  
-- ⚡ **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI  
-- 📊 **Monitoring:** Prometheus, Grafana  
-- 💻 **Programming:** Python, Java, JavaScript, Flask, Spring Boot   
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch)
+- 🐳 **Containers & Orchestration:** Docker, Kubernetes
+- 🔧 **Automation & IaC:** Terraform, Ansible
+- ⚡ **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI
+- 📊 **Monitoring:** Prometheus, Grafana
+- 💻 **Programming:** Python, Java, JavaScript, Flask, Spring Boot
+```
 
 ---
 
-## 🐍 Contribution Snake Themes
 
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-red-yellow-green.svg" alt="Red-Yellow-Green Snake"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-cyberpunk.svg" alt="Cyberpunk Snake"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-golden.svg" alt="Golden Snake"/>
 </p>
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-pastel.svg" alt="Pastel Rainbow Snake"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-cyberpunk.svg" alt="Cyberpunk Neon Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-golden.svg" alt="Golden Glow Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-ocean.svg" alt="Ocean Blue Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-candy.svg" alt="Candy Pink Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-emerald.svg" alt="Emerald Green Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-midnight.svg" alt="Midnight Purple Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-sky.svg" alt="Sky Blue Snake"/>
-</p>
+### 8. **Motivational Badges**
+Keep only 2–3 for impact.
+```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stay%20Consistent-2962FF?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commit%20Daily-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
+```
 
 ---
+
+
 
 ## 🖼️ Dynamic Banner
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Specialist;Full+Stack+Developer;Always+Learning+Always+Building" alt="Typing Animation"/>
 </p>
+```
 
 ---
+
 
