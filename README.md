@@ -16,7 +16,6 @@
   <a href="https://www.naukri.com/mnjuser/profile"><img src="https://static.naukri.com/s/0/0/i/naukri-identity/naukriLogo.svg" width="100" alt="Naukri"/></a>
 </p>
 
-```
 
 ---
 
@@ -27,14 +26,13 @@
 - 💝 Open to collaborate on: **Cloud & DevOps Projects**
 - 💭 Ask me about: **AWS, DevOps, Cloud Solutions**
 - 📧 Reach me at: **cmohanty154@gmail.com**
-```
 
 ---
 
 
 ## 🎨 Languages & Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=10" />
-```
+
 
 ---
 
@@ -47,7 +45,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
 </p>
-```
+
 
 ---
 
@@ -59,7 +57,7 @@
 - ⚡ **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI
 - 📊 **Monitoring:** Prometheus, Grafana
 - 💻 **Programming:** Python, Java, JavaScript, Flask, Spring Boot
-```
+  
 
 ---
 
@@ -69,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-cyberpunk.svg" alt="Cyberpunk Snake"/>
   <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-golden.svg" alt="Golden Snake"/>
 </p>
-```
+
 
 ---
 
@@ -80,7 +78,7 @@ Keep only 2–3 for impact.
   <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Stay%20Consistent-2962FF?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-```
+
 
 ---
 
@@ -90,7 +88,7 @@ Keep only 2–3 for impact.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Specialist;Full+Stack+Developer;Always+Learning+Always+Building" alt="Typing Animation"/>
 </p>
-```
+
 
 ---
 
