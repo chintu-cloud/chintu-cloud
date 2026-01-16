@@ -21,6 +21,24 @@
 
 ---
 
+## 🎶 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true"/>
+</p>
+
+---
+
+## 🐦 Latest Tweet
+
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+    <img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_HANDLE&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 - 🔬 Currently working on: **DevOps Projects**  
 - 🌱 Learning: **DevOps with AWS**  
