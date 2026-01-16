@@ -68,14 +68,20 @@
 
 ---
 
-
-
 ## 🐍 Contribution Snake
-## 🐍 Contribution Snake (Yellow Theme)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-yellow.svg" alt="Contribution Snake Yellow"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-yellow.svg" alt="Yellow Snake"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-neon.svg" alt="Neon Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-sunset.svg" alt="Sunset Snake"/>
+</p>
+
 
 ---
 
