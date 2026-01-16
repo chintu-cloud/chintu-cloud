@@ -17,11 +17,26 @@ jobs:
         with:
           fetch-depth: 0  # Full history so git push works
 
-      - name: Generate Snake
+      - name: Generate Snake (Default Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud   # <-- replace with your GitHub username
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Generate Snake (Light Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-light.svg?palette=github-light
+
+      - name: Generate Snake (Custom Neon Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-neon.svg?color_snake=#00ffcc&color_dots=#ff00ff&color_bg=#000000
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
