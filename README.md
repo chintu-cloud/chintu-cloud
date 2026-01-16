@@ -75,8 +75,22 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <!-- Animated Snake -->
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake" />
+</p>
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep%20Coding-00C853?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stay%20Consistent-2962FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commit%20Daily-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
 
 ## 🖼️ Dynamic Banner
 <p align="center">
