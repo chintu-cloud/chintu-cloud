@@ -64,10 +64,8 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-cyberpunk.svg" alt="Cyberpunk Snake"/>
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-golden.svg" alt="Golden Snake"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
 </p>
-
 
 ---
 
