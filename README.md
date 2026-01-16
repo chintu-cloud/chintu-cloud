@@ -40,12 +40,44 @@
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight"/></p>
+  <!-- Streak Stats -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=chintu-cloud&theme=tokyonight"/>
+</p>
+
 <p align="center">
+  <!-- Overall Stats -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight"/>
+  <!-- Top Languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight"/>
-</p> 
+</p>
+
+<p align="center">
+  <!-- Contribution Snake -->
+  <img src="https://github.com/chintu-cloud/chintu-cloud/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=chintu-cloud&color=blueviolet&style=flat-square"/>
+</p>
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
   
 
