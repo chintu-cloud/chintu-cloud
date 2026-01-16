@@ -35,7 +35,7 @@
 
 
 ## 🎨 Languages & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=8&size=40" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,gitlab,git,linux,ansible,terraform,prometheus,grafana,maven,python,java,javascript,html&perline=8&size=20" />
 
 ---
 
