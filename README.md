@@ -71,10 +71,21 @@
 
 
 ## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Animated Snake -->
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake" />
+  <!-- Dark Theme -->
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-dark.svg" alt="Contribution Snake Dark"/>
+</p>
+
+<p align="center">
+  <!-- Light Theme -->
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-light.svg" alt="Contribution Snake Light"/>
+</p>
+
+<p align="center">
+  <!-- Neon Theme -->
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-neon.svg" alt="Contribution Snake Neon"/>
 </p>
 
 ---
