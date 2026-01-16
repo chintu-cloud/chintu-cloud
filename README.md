@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-light.svg" alt="Contribution Snake Light"/>
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake-red-yellow-green.svg" alt="Contribution Snake Red-Yellow-Green"/>
 </p>
 
 
