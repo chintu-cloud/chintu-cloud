@@ -25,14 +25,71 @@ jobs:
           outputs: |
             dist/snake-red-yellow-green.svg?color_snake=#FF0000&color_dots=#FFD700&color_bg=#90EE90
 
-      # Rainbow Gradient Snake
-      - name: Generate Snake (Rainbow Theme)
+      # Pastel Rainbow Theme
+      - name: Generate Snake (Pastel Rainbow Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud
           outputs: |
-            dist/snake-rainbow.svg?color_snake=linear-gradient(#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF)&color_dots=#FFFFFF&color_bg=#000000
+            dist/snake-pastel.svg?color_snake=linear-gradient(#FFB3BA,#FFDFBA,#FFFFBA,#BAFFC9,#BAE1FF)&color_dots=#808080&color_bg=#FFFFFF
 
+      # Cyberpunk Neon Theme
+      - name: Generate Snake (Cyberpunk Neon Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-cyberpunk.svg?color_snake=#00FFFF&color_dots=#FF00FF&color_bg=#0D0D0D
+
+      # Golden Glow Theme
+      - name: Generate Snake (Golden Glow Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-golden.svg?color_snake=#FFD700&color_dots=#FFA500&color_bg=#001F3F
+
+      # Ocean Blue Theme
+      - name: Generate Snake (Ocean Blue Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-ocean.svg?color_snake=#1E90FF&color_dots=#00CED1&color_bg=#E0FFFF
+
+      # Candy Pink Theme
+      - name: Generate Snake (Candy Pink Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-candy.svg?color_snake=#FF69B4&color_dots=#FFC0CB&color_bg=#FFF0F5
+
+      # Emerald Green Theme
+      - name: Generate Snake (Emerald Green Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-emerald.svg?color_snake=#50C878&color_dots=#ADFF2F&color_bg=#F0FFF0
+
+      # Midnight Purple Theme
+      - name: Generate Snake (Midnight Purple Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-midnight.svg?color_snake=#8A2BE2&color_dots=#DA70D6&color_bg=#1A1A2E
+
+      # Sky Blue Theme
+      - name: Generate Snake (Sky Blue Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-sky.svg?color_snake=#00BFFF&color_dots=#87CEFA&color_bg=#F0F8FF
+
+      # Push all generated snakes to output branch
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
