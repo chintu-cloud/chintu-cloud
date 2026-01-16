@@ -17,29 +17,29 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Custom Yellow Snake with Black Background
+      # Default Dark Theme
+      - name: Generate Snake (Dark Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+
+      # Light Theme (clean white background + soft snake)
+      - name: Generate Snake (Light Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chintu-cloud
+          outputs: |
+            dist/snake-light.svg?color_snake=#FFD54F&color_dots=#FFECB3&color_bg=#FFFFFF
+
+      # Stylish Yellow Theme
       - name: Generate Snake (Yellow Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: chintu-cloud
           outputs: |
-            dist/snake-yellow.svg?color_snake=#FFD700&color_dots=#FFEB3B&color_bg=#000000
-
-      # Neon Snake with Dark Gray Background
-      - name: Generate Snake (Neon Theme)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: chintu-cloud
-          outputs: |
-            dist/snake-neon.svg?color_snake=#00FFFF&color_dots=#FF00FF&color_bg=#1A1A1A
-
-      # Sunset Snake with Purple Background
-      - name: Generate Snake (Sunset Theme)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: chintu-cloud
-          outputs: |
-            dist/snake-sunset.svg?color_snake=#FFB300&color_dots=#FFE082&color_bg=#2C2C54
+            dist/snake-yellow.svg?color_snake=#FFC107&color_dots=#FFF176&color_bg=#FAFAFA
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
