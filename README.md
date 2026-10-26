@@ -116,70 +116,179 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 ---
 
+<img width="516" height="2268" alt="image" src="https://github.com/user-attachments/assets/1c14ef97-31e3-49ce-b5ab-bf6209498e45" />
+
+
+
 # ☁️ Cloud & DevOps Expertise
 
-### Cloud Platforms
-- AWS EC2
-- AWS S3
-- AWS RDS
-- AWS IAM
-- AWS Lambda
-- AWS CloudWatch
-- AWS VPC
+<div align="center">
 
-### Containers & Orchestration
-- Docker
-- Kubernetes
+### 🚀 Passionate Cloud & DevOps Engineer
 
-### Infrastructure as Code
-- Terraform
-- Ansible
+Building scalable cloud infrastructure, automating deployments, and creating reliable CI/CD pipelines.
 
-### CI/CD
-- Jenkins
-- GitHub Actions
-- GitLab CI/CD
+</div>
 
-### Monitoring & Observability
-- Prometheus
-- Grafana
+## ☁️ Cloud Platforms
 
-### Programming & Scripting
-- Python
-- Java
-- JavaScript
-- Bash
+🔹 **AWS EC2** - Compute Services  
+🔹 **AWS S3** - Object Storage  
+🔹 **AWS RDS** - Managed Databases  
+🔹 **AWS IAM** - Identity & Access Management  
+🔹 **AWS Lambda** - Serverless Computing  
+🔹 **AWS CloudWatch** - Monitoring & Logging  
+🔹 **AWS VPC** - Secure Network Design  
+
+---
+
+## 🐳 Containers & Orchestration
+
+🔹 Docker  
+🔹 Kubernetes  
+🔹 Helm Charts  
+🔹 Container Security  
+🔹 Kubernetes Services & Ingress  
+
+---
+
+## ⚙️ Infrastructure as Code
+
+🔹 Terraform  
+🔹 Ansible  
+🔹 Infrastructure Automation  
+🔹 Configuration Management  
+🔹 Reusable Modules & Playbooks  
+
+---
+
+## 🔄 CI/CD & DevOps
+
+🔹 Jenkins  
+🔹 GitHub Actions  
+🔹 GitLab CI/CD  
+🔹 Automated Testing  
+🔹 Continuous Deployment  
+🔹 GitOps Practices  
+
+---
+
+## 📊 Monitoring & Observability
+
+🔹 Prometheus  
+🔹 Grafana  
+🔹 Alert Manager  
+🔹 Metrics Collection  
+🔹 Infrastructure Monitoring  
+🔹 Dashboard Visualization  
+
+---
+
+## 💻 Programming & Scripting
+
+🔹 Python 🐍  
+🔹 Java ☕  
+🔹 JavaScript ✨  
+🔹 Bash 🐧  
 
 ---
 
 # 🚀 Featured Projects
 
-### ☁️ AWS Three-Tier Architecture
-- Secure VPC Design
-- EC2 Auto Scaling
-- Load Balancer Integration
-- High Availability Architecture
-- RDS Database Layer
+## ☁️ AWS Three-Tier Architecture
 
-### ⚙️ Kubernetes Deployment Automation
-- Dockerized Applications
-- Kubernetes Deployments
-- Rolling Updates
-- ConfigMaps & Secrets
-- Service Discovery
+💎 Enterprise-grade AWS Infrastructure
 
-### 🔥 CI/CD Automation Pipeline
-- Jenkins Automation
-- Maven Build Pipeline
-- Docker Integration
-- Automated Deployments
-- Kubernetes Delivery
+✅ Secure VPC Architecture  
+✅ Public & Private Subnets  
+✅ Auto Scaling Groups  
+✅ Application Load Balancer  
+✅ High Availability Design  
+✅ Amazon RDS Integration  
+✅ Security Groups & IAM Controls  
 
-### 📊 Monitoring System
-- Prometheus Metrics Collection
-- Grafana Dashboards
-- Alert Configuration
-- Infrastructure Monitoring
+**Tech Stack:** AWS • EC2 • ALB • Auto Scaling • RDS • VPC
+
+---
+
+## ☸️ Kubernetes Deployment Automation
+
+💎 Cloud-Native Application Deployment
+
+✅ Dockerized Microservices  
+✅ Kubernetes Deployments  
+✅ Rolling Updates & Rollbacks  
+✅ ConfigMaps & Secrets Management  
+✅ Service Discovery  
+✅ Namespace Isolation  
+
+**Tech Stack:** Kubernetes • Docker • Helm • Linux
+
+---
+
+## 🔥 CI/CD Automation Pipeline
+
+💎 End-to-End Continuous Delivery
+
+✅ Source Code Integration  
+✅ Maven Build Automation  
+✅ Automated Testing  
+✅ Docker Image Creation  
+✅ Kubernetes Deployment  
+✅ Continuous Delivery Workflow  
+
+**Tech Stack:** Jenkins • GitHub • Docker • Kubernetes • Maven
+
+---
+
+## 📊 Monitoring & Observability Platform
+
+💎 Real-Time Infrastructure Visibility
+
+✅ Prometheus Metrics Collection  
+✅ Grafana Interactive Dashboards  
+✅ Node Exporter Integration  
+✅ Alert Rules Configuration  
+✅ Resource Utilization Tracking  
+✅ Service Monitoring  
+
+**Tech Stack:** Prometheus • Grafana • Linux
+
+---
+
+# 🎯 Core Competencies
+
+<div align="center">
+
+☁️ Cloud Computing & AWS  
+🐳 Containerization & Kubernetes  
+⚙️ Infrastructure as Code (IaC)  
+🚀 CI/CD Pipeline Automation  
+📊 Monitoring & Observability  
+🔒 Cloud Security Fundamentals  
+🐧 Linux Administration  
+🔄 GitOps & Automation  
+💻 Python & Scripting  
+🏗️ DevOps Best Practices  
+
+</div>
+
+---
+
+## 🌟 Career Objective
+
+> Passionate Cloud & DevOps Engineer focused on designing scalable, secure, and automated infrastructure solutions. Continuously learning modern cloud-native technologies and DevOps best practices to deliver reliable and efficient systems.
+
+🔥 Extra Premium Touch
+
+Add this Skill Icons Banner immediately below the title:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argocd,prometheus,grafana,linux,bash,python,java,javascript,mysql,git,github,maven,postman,vscode&perline=8" />
+</p>
+
+
+
 
 ---
 
