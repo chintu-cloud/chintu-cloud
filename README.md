@@ -116,7 +116,7 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 ---
 
-<img width="516" height="2268" alt="image" src="https://github.com/user-attachments/assets/1c14ef97-31e3-49ce-b5ab-bf6209498e45" />
+
 
 
 
