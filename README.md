@@ -352,38 +352,9 @@ Monitoring:
 
 ---
 
-# 🎯 2026 Goals
 
-✅ Land a Cloud / DevOps Engineer Role
-✅ Master Kubernetes Ecosystem
-✅ Build Production-Grade DevOps Projects
-✅ Earn Industry Cloud Certifications
-✅ Contribute to Open Source Projects
-✅ Strengthen GitOps & Platform Engineering Skills
 
----
 
-# 💡 DevOps Philosophy
-
-```python
-while True:
-    learn()
-    build()
-    automate()
-    improve()
-```
-
----
-
-<div align="center">
-
-### 🚀 Building • Learning • Automating • Scaling
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
-
-</div>
-
----
 
 
 ## 🐍 Contribution Snake
@@ -411,4 +382,34 @@ while True:
 
 
 ---
+# 💡 DevOps Philosophy
 
+```python
+while True:
+    learn()
+    build()
+    automate()
+    improve()
+```
+
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Automating • Scaling
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
+
+</div>
+
+---
+# 🎯 future Goals
+
+✅ Land a Cloud / DevOps Engineer Role
+✅ Master Kubernetes Ecosystem
+✅ Build Production-Grade DevOps Projects
+✅ Earn Industry Cloud Certifications
+✅ Contribute to Open Source Projects
+✅ Strengthen GitOps & Platform Engineering Skills
+
+---
