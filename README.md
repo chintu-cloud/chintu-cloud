@@ -16,28 +16,68 @@
 
 </div>
 
+
+💫 About Me
 ---
 
-## 💫 About Me
+<img width="1617" height="2268" alt="image" src="https://github.com/user-attachments/assets/e59555c5-ceff-48dc-b348-fbcc26692720" />
+Use this modern, colorful, recruiter-friendly About Me section:
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" alt="DevOps">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-🎓 **MCA Graduate (2025)**
+<img align="right" width="320" alt="DevOps Engineer" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif"/>
 
-☁️ Passionate **Cloud & DevOps Engineer**
-🚀 Building scalable cloud infrastructure and automation solutions
-🌱 Currently learning **Advanced Kubernetes, GitOps & AWS Automation**
-🤝 Open to collaborating on **Cloud, DevOps & Open-Source Projects**
+### 👨‍💻 Cloud & DevOps Engineer
 
-💬 Ask me about:
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Linux
-- GitHub Actions
-- CI/CD
+🌩️ Passionate about building **scalable cloud infrastructure** and **automating workflows**
+
+🎓 **MCA Graduate (2025)** from Presidency College, Berhampur
+
+🚀 Currently building **Cloud, DevOps & Infrastructure Automation Projects**
+
+🌱 Learning **Advanced Kubernetes, GitOps, ArgoCD & AWS Automation**
+
+🤝 Open to collaborating on **Cloud-Native & Open-Source Projects**
+
+💡 Strong interest in:
+- ☁️ Cloud Computing
+- 🚢 Containerization
+- ⚙️ DevOps Automation
+- 📦 Infrastructure as Code
+- 🔄 CI/CD Pipelines
+- 📊 Monitoring & Observability
+
+---
+
+### 💬 Ask Me About
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
+</p>
+
+---
+
+### 📍 Quick Facts
+
+```yaml
+Name: Chandan Mohanty
+Role: Cloud & DevOps Engineer
+Location: Hyderabad, India 🇮🇳
+Email: cmohanty154@gmail.com
+Focus: AWS | Kubernetes | Terraform | CI/CD
+Goal: Becoming a Production-Ready DevOps Engineer
+```
+
+<br clear="right"/>
+
+
 
 📧 **Email:** `cmohanty154@gmail.com`
 
