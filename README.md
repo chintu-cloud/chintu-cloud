@@ -24,17 +24,12 @@
 
 <img align="right" width="320" alt="DevOps Engineer" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif"/>
 
-### 👨‍💻 Cloud & DevOps Engineer
-
-🌩️ Passionate about building **scalable cloud infrastructure** and **automating workflows**
-
-🎓 **MCA Graduate (2025)** from Presidency College, Berhampur
-
-🚀 Currently building **Cloud, DevOps & Infrastructure Automation Projects**
-
-🌱 Learning **Advanced Kubernetes, GitOps, ArgoCD & AWS Automation**
-
-🤝 Open to collaborating on **Cloud-Native & Open-Source Projects**
++ 👨‍💻 CLOUD & DEVOPS ENGINEER
++ 🌩️ Passionate about building scalable cloud infrastructure and automating workflows
++ 🎓 MCA Graduate (2025) | Presidency College, Berhampur
++ 🚀 Building Cloud, DevOps & Infrastructure Automation Projects
++ 🌱 Learning Advanced Kubernetes, GitOps, ArgoCD & AWS Automation
++ 🤝 Open to Cloud-Native & Open-Source Collaborations
 
 💡 Strong interest in:
 - ☁️ Cloud Computing
