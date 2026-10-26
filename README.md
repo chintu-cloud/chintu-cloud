@@ -2,7 +2,14 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Chandan Mohanty
+#  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6565bada-01a9-41e0-9b36-b04352d385ae" />
+Hi I'm CHANDAN MOHANTY
+  
+☁️ Building the Cloud, One Deployment at a Time
+👨‍💻 Cloud & DevOps Engineer
+☁️ AWS • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • 🚀 CI/CD
+
+Building Scalable Infrastructure • Automating Everything • Learning Every Day
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 
