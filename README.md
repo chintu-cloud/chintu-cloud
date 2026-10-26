@@ -2,11 +2,12 @@
 
 <div align="center">
 
-#  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6565bada-01a9-41e0-9b36-b04352d385ae" />
-Hi I'm CHANDAN MOHANTY
+#  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6565bada-01a9-41e0-9b36-b04352d385ae" /> Hi I'm CHANDAN MOHANTY
   
 ☁️ Building the Cloud, One Deployment at a Time
+
 👨‍💻 Cloud & DevOps Engineer
+
 ☁️ AWS • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • 🚀 CI/CD
 
 Building Scalable Infrastructure • Automating Everything • Learning Every Day
