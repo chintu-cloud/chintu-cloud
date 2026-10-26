@@ -16,8 +16,6 @@
 
 </div>
 
-
-💫 About Me
 ---
 
 <img width="1617" height="2268" alt="image" src="https://github.com/user-attachments/assets/e59555c5-ceff-48dc-b348-fbcc26692720" />
