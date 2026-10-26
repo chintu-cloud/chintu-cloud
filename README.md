@@ -58,7 +58,9 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argocd,prometheus,grafana,linux,bash,python,java,javascript,mysql,git,github,maven,postman,vscode&perline=8" />
+</p>
 ---
 
 ### 📍 Quick Facts
@@ -275,9 +277,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ---
 
-## 🌟 Career Objective
 
-> Passionate Cloud & DevOps Engineer focused on designing scalable, secure, and automated infrastructure solutions. Continuously learning modern cloud-native technologies and DevOps best practices to deliver reliable and efficient systems.
 
 🔥 Extra Premium Touch
 
