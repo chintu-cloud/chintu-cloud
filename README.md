@@ -1,10 +1,9 @@
 
 
 <div align="center">
-
  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e3514c7-2117-4590-a187-e440e3e76b03" /> 
  # Hi I'm CHANDAN MOHANTY
-  <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/22ca0929-9a8d-4cfb-b139-9f72499358d4" />
+  
 
 ☁️ Building the Cloud, One Deployment at a Time
 
