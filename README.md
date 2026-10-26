@@ -5,8 +5,6 @@
  
  # 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷 𝓶𝓸𝓱𝓪𝓷𝓽𝔂  
                                                                                                                                                   
-  
-
 ☁️ Building the Cloud, One Deployment at a Time
 
 👨‍💻 Cloud & DevOps Engineer
