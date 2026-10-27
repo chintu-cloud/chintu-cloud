@@ -228,25 +228,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chintu-cloud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu-cloud&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 📚 Currently Learning
 
