@@ -6,7 +6,7 @@
 
   <div align="center"> 
    
- # i'm chandan mohanty
+ # GurlBones-Regular
                                                                                                                                                 
 
 👨‍💻 Cloud & DevOps Engineer
