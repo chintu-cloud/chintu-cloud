@@ -256,22 +256,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ---
 
-# 🎯 Core Competencies
 
-<div align="center">
-
-☁️ Cloud Computing & AWS  
-🐳 Containerization & Kubernetes  
-⚙️ Infrastructure as Code (IaC)  
-🚀 CI/CD Pipeline Automation  
-📊 Monitoring & Observability  
-🔒 Cloud Security Fundamentals  
-🐧 Linux Administration  
-🔄 GitOps & Automation  
-💻 Python & Scripting  
-🏗️ DevOps Best Practices  
-
-</div>
 
 ---
 
