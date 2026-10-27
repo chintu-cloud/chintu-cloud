@@ -1,12 +1,6 @@
-
-<div align="left">
-
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5e3514c7-2117-4590-a187-e440e3e76b03" /> 
-
-
-  <div align="center"> 
+ <div align="center"> 
    
-  <img width="800" height="135" alt="i-m-chandan-mohanty-27-10-2026" src="https://github.com/user-attachments/assets/8c9f069e-0d3a-4520-836e-f636d66f6aa4" />
+ 
 
                                                                                                                                                
 👨‍💻 Cloud & DevOps Engineer
