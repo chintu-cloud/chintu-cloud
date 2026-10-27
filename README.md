@@ -6,9 +6,8 @@
 
   <div align="center"> 
    
- # 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷 𝓶𝓸𝓱𝓪𝓷𝓽𝔂
+ # i'm chandan mohanty
                                                                                                                                                 
-☁️ Building the Cloud, One Deployment at a Time
 
 👨‍💻 Cloud & DevOps Engineer
 
@@ -36,7 +35,6 @@ Building Scalable Infrastructure • Automating Everything • Learning Every Da
 
 <img align="right" width="320" alt="DevOps Engineer" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif"/>
 
-+ 👨‍💻 CLOUD & DEVOPS ENGINEER
 + 🌩️ Passionate about building scalable cloud infrastructure and automating workflows
 + 🎓 MCA Graduate (2025) | Presidency College, Berhampur
 + 🚀 Building Cloud, DevOps & Infrastructure Automation Projects
