@@ -6,9 +6,9 @@
 
   <div align="center"> 
    
- # GurlBones-Regular
-                                                                                                                                                
+  <img width="800" height="135" alt="i-m-chandan-mohanty-27-10-2026" src="https://github.com/user-attachments/assets/8c9f069e-0d3a-4520-836e-f636d66f6aa4" />
 
+                                                                                                                                               
 👨‍💻 Cloud & DevOps Engineer
 
 ☁️ AWS • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • 🚀 CI/CD
