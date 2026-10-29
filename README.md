@@ -161,7 +161,7 @@
 
 ---
 
-# 🛠️ Technologies I Work With
+## 🛠️ Technologies I Work With
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
@@ -202,7 +202,7 @@
 </p>
 
 
-### 📍 Quick Facts
+## 📍 Quick Facts
 
 ```yaml
 Name: Chandan Mohanty
@@ -225,7 +225,7 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 
 
-# ☁️ Cloud & DevOps Expertise
+## ☁️ Cloud & DevOps Expertise
 
 <div align="center">
 
@@ -260,7 +260,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -282,7 +282,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```yaml
 Cloud:
@@ -335,7 +335,7 @@ Monitoring:
 
 
 ---
-# 💡 DevOps Philosophy
+## 💡 DevOps Philosophy
 
 ```python
 while True:
@@ -349,14 +349,14 @@ while True:
 
 <div align="center">
 
-### 🚀 Building • Learning • Automating • Scaling
+## 🚀 Building • Learning • Automating • Scaling
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
 
 </div>
 
 ---
-# 🎯 future Goals
+## 🎯 future Goals
 
 ✅ Land a Cloud / DevOps Engineer Role
 ✅ Master Kubernetes Ecosystem
