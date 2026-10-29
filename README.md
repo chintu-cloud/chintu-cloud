@@ -1,6 +1,21 @@
  <div align="center"> 
    
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FI'M CHANDAN MOHANTY" alt="Typing SVG" />
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I%27m+CHANDAN+MOHANTY+%F0%9F%91%A6;Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+CI%2FCD" alt="👋 Hi, I'm CHANDAN MOHANTY 👦" />
+</p>
+
+```
+
+Your animated introduction:
+
+- 👋 Hi, I'm CHANDAN MOHANTY 👦
+- ☁️ Cloud & DevOps Engineer
+- 🛠️ AWS | Terraform | Kubernetes
+- 🚀 Docker | Jenkins | CI/CD
+
+Copy this code into your GitHub `README.md` file and click Commit changes.
                                                                                                                                               
 👨‍💻 Cloud & DevOps Engineer
 
