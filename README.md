@@ -93,13 +93,7 @@
 + 🌱 Learning Advanced Kubernetes, GitOps, ArgoCD & AWS Automation
 + 🤝 Open to Cloud-Native & Open-Source Collaborations
 
-💡 Strong interest in:
-- ☁️ Cloud Computing
-- 🚢 Containerization
-- ⚙️ DevOps Automation
-- 📦 Infrastructure as Code
-- 🔄 CI/CD Pipelines
-- 📊 Monitoring & Observability
+
 
 ---
 
@@ -113,7 +107,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ☁️ Cloud Computing — AWS
 
