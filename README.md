@@ -10,20 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2500&pause=1000&color=AD5CFF&center=true&vCenter=true&width=800&height=70&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                                                                                                                               
 👨‍💻 Cloud & DevOps Engineer
 
@@ -129,11 +115,10 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argocd,prometheus,grafana,linux,bash,python,java,javascript,mysql,git,github,maven,postman,vscode&perline=8" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,github,gitlab,linux,bash,prometheus,grafana,python,java,javascript,mysql&perline=8" />
-
-</div>
 
 ---
 
@@ -211,21 +196,6 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 🔹 Java ☕  
 🔹 JavaScript ✨  
 🔹 Bash 🐧  
-
----
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argocd,prometheus,grafana,linux,bash,python,java,javascript,mysql,git,github,maven,postman,vscode&perline=8" />
-</p>
-
-
-
 
 ---
 
