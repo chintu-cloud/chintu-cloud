@@ -89,29 +89,19 @@
 
 <img align="right" width="300" alt="Cloud and DevOps Engineering Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
 
-- ☁️ Passionate about cloud computing, scalable infrastructure, and DevOps automation.
-- 🎓 MCA Graduate (2025) | Presidency College, Berhampur.
-- ⚙️ Building hands-on projects with AWS, Docker, Kubernetes, and Terraform.
-- 🚀 Automating CI/CD pipelines and exploring cloud-native deployment practices.
-- 📈 Developing skills in infrastructure as code, monitoring, and system reliability.
-- 🌱 Continuously learning Kubernetes, GitOps, Argo CD, and AWS automation.
-- 🤝 Interested in collaborating on DevOps, cloud infrastructure, and open-source projects.
+- ☁️ Passionate about AWS Cloud & DevOps Engineering.
+- ⚙️ Hands-on with Docker, Kubernetes, Terraform & CI/CD.
+- 🚀 Building cloud infrastructure and automation projects.
+- 📈 Exploring GitOps, Argo CD & monitoring tools.
+- 🤝 Open to DevOps collaboration and open-source projects.
 
-**My Goal:** To build secure, scalable, and reliable cloud solutions through automation and continuous improvement.
+**🎯 Goal:** Build secure, scalable, and production-ready cloud solutions.
 
 
 
 ---
 
-## ☁️ Cloud & DevOps Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-</p>
 
 ## 🛠️ Technical Skills
 
