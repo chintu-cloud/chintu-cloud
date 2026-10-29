@@ -1,8 +1,3 @@
-💻 Programming & Scripting
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" alt="Programming and scripting languages" />
-</p>
  
  <div align="center"> 
    
@@ -146,7 +141,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 
 ## ☁️ Cloud Platforms
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+</p>
 🔹 **AWS EC2** - Compute Services  
 🔹 **AWS S3** - Object Storage  
 🔹 **AWS RDS** - Managed Databases  
@@ -158,7 +155,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 ---
 
 ## 🐳 Containers & Orchestration
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm" />
+</p>
 🔹 Docker  
 🔹 Kubernetes  
 🔹 Helm Charts  
@@ -168,7 +167,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 ---
 
 ## ⚙️ Infrastructure as Code
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform and Ansible" />
+</p>
 🔹 Terraform  
 🔹 Ansible  
 🔹 Infrastructure Automation  
@@ -178,7 +179,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 ---
 
 ## 🔄 CI/CD & DevOps
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman" alt="Developer tools" />
+</p>
 🔹 Jenkins  
 🔹 GitHub Actions  
 🔹 GitLab CI/CD  
@@ -186,10 +189,14 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 🔹 Continuous Deployment  
 🔹 GitOps Practices  
 
+
+
 ---
 
 ## 📊 Monitoring & Observability
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
+</p>
 🔹 Prometheus  
 🔹 Grafana  
 🔹 Alert Manager  
@@ -197,14 +204,47 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 🔹 Infrastructure Monitoring  
 🔹 Dashboard Visualization  
 
+
+
 ---
 
 ## 💻 Programming & Scripting
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" alt="Programming and scripting languages" />
+</p>
 🔹 Python 🐍  
 🔹 Java ☕  
 🔹 JavaScript ✨  
 🔹 Bash 🐧  
+
+---
+## 🐧 Linux, Networking & Web Servers
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache" alt="Linux, Bash and web servers" />
+</p>
+
+🔹 Linux Commands, Users and Permissions
+
+🔹 Bash Shell Scripting
+
+🔹 Process and Service Management
+
+🔹 SSH and Secure Remote Access
+
+🔹 IP Addresses, CIDR and Subnetting
+
+🔹 DNS, TCP/IP, HTTP and HTTPS
+
+🔹 Public and Private Subnets
+
+🔹 NAT Gateway, Route Tables and Firewalls
+
+🔹 Nginx, Apache and Reverse Proxies
+
+🔹 Load Balancers and Routing
+
+🔹 TLS/SSL Certificates
 
 ---
 
