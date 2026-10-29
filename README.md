@@ -222,6 +222,11 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
+   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="65" alt="Amazon CloudWatch" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudTrail_48.svg" width="65" alt="AWS CloudTrail" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-Config_48.svg" width="65" alt="AWS Config" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Analytics/48/Arch_Amazon-Athena_48.svg" width="65" alt="Amazon Athena" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Analytics/48/Arch_AWS-Glue_48.svg" width="65" alt="AWS Glue" />
 </p>
 
 🔹 **Prometheus** — Metrics Collection  
