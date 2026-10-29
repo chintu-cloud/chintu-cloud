@@ -142,9 +142,6 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="65" alt="Amazon EC2" />
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="65" alt="AWS Lambda" />
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Container-Service_48.svg" width="65" alt="Amazon ECS" />
