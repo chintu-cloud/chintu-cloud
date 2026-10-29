@@ -210,59 +210,29 @@
 
 ---
 
-## 📍 Quick Facts
+## 📌 Professional Snapshot
 
 ```yaml
-Name: Chandan Mohanty
-Role: Cloud & DevOps Engineer
-Location: Hyderabad, India 🇮🇳
-Email: cmohanty154@gmail.com
-Focus: AWS | Kubernetes | Terraform | CI/CD
-Goal: Becoming a Production-Ready DevOps Engineer
+name: Chandan Mohanty
+role: Cloud & DevOps Engineer
+location: Hyderabad, India
+education: MCA Graduate (2025)
+specialization:
+  - AWS Cloud Infrastructure
+  - Docker & Kubernetes
+  - Terraform & Infrastructure as Code
+  - CI/CD Automation
+career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ```
 
-<br clear="right"/>
+## 📬 Contact Information
 
-
-
-📧 **Email:** `cmohanty154@gmail.com`
-
-📍 **Location:** Hyderabad, India
-
----
-
-
-
-## ☁️ Cloud & DevOps Expertise
-
-<div align="center">
-
-Building scalable cloud infrastructure, automating deployments, and creating reliable CI/CD pipelines.
-
-</div>
-
-
-## 🔐 Networking & Cloud Security
-
-- 🌐 VPC, public and private subnets, routing tables
-- 🔒 IAM users, roles, policies, and least-privilege access
-- 🛡️ Security groups, network ACLs, and firewall rules
-- ⚖️ Load balancers, target groups, and Auto Scaling
-- 🔑 SSH, key pairs, TLS/SSL, and HTTPS
-- 🌍 Route 53, DNS, NAT Gateway, and internet gateways
-
-## ⚙️ Core DevOps Practices
-
-- 🔄 Continuous Integration and Continuous Delivery (CI/CD)
-- 🏗️ Infrastructure as Code (IaC)
-- 🐳 Containerization and orchestration
-- 🚀 Automated application deployment
-- 📈 Monitoring, logging, and alerting
-- 🔐 Cloud security and access management
-- 🔧 Version control and collaborative development
-- ♻️ Reliability, scalability, and troubleshooting
-
-
+<p>
+  <a href="mailto:cmohanty154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandan" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C_India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Hyderabad, India" />
+</p>
 
 ---
 
