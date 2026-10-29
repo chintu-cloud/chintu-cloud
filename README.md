@@ -172,6 +172,16 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="65" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="65" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="65" alt="GitLab CI/CD" />
+  <img src="https://skillicons.dev/icons?i=git" width="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="65" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=argocd" width="65" alt="Argo CD" />
+  <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="65" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="65" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" width="65" alt="Ansible" />
 </p>
 
 🔹 **Docker** — Application Containerization  
