@@ -97,7 +97,7 @@
 
 ---
 
-☁️ Cloud & DevOps Expertise
+## ☁️ Cloud & DevOps Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
@@ -174,6 +174,7 @@
 <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
 </p>
 
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
@@ -201,6 +202,7 @@
   <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="Argo CD" />
 </p>
 
+---
 
 ## 📍 Quick Facts
 
