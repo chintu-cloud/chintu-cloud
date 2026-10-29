@@ -159,197 +159,82 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 </div>
 
 
-## ☁️ Cloud Platforms
+
+## ☁️ AWS & DevOps Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="65" alt="Amazon EC2" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="65" alt="AWS Lambda" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Container-Service_48.svg" width="65" alt="Amazon ECS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Kubernetes-Service_48.svg" width="65" alt="Amazon EKS" />
-   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="65" alt="Amazon S3" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Elastic-Block-Store_48.svg" width="65" alt="Amazon EBS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-EFS_48.svg" width="65" alt="Amazon EFS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg" width="65" alt="Amazon RDS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-Aurora_48.svg" width="65" alt="Amazon Aurora" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg" width="65" alt="Amazon DynamoDB" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Analytics/48/Arch_Amazon-Redshift_48.svg" width="65" alt="Amazon Redshift" />
+&#x20; <img src="[https://cdn.simpleicons.org/amazonaws/FF9900](https://cdn.simpleicons.org/amazonaws/FF9900)" width="30" height="30" alt="AWS" />
+&#x20; <img src="[https://cdn.simpleicons.org/docker/2496ED](https://cdn.simpleicons.org/docker/2496ED)" width="30" height="30" alt="Docker" />
+&#x20; <img src="[https://cdn.simpleicons.org/kubernetes/326CE5](https://cdn.simpleicons.org/kubernetes/326CE5)" width="30" height="30" alt="Kubernetes" />
+&#x20; <img src="[https://cdn.simpleicons.org/terraform/844FBA](https://cdn.simpleicons.org/terraform/844FBA)" width="30" height="30" alt="Terraform" />
+&#x20; <img src="[https://cdn.simpleicons.org/jenkins/D24939](https://cdn.simpleicons.org/jenkins/D24939)" width="30" height="30" alt="Jenkins" />
+&#x20; <img src="[https://cdn.simpleicons.org/githubactions/2088FF](https://cdn.simpleicons.org/githubactions/2088FF)" width="30" height="30" alt="GitHub Actions" />
+&#x20; <img src="[https://cdn.simpleicons.org/gitlab/FC6D26](https://cdn.simpleicons.org/gitlab/FC6D26)" width="30" height="30" alt="GitLab" />
+&#x20; <img src="[https://cdn.simpleicons.org/ansible/EE0000](https://cdn.simpleicons.org/ansible/EE0000)" width="30" height="30" alt="Ansible" />
+&#x20; <img src="[https://cdn.simpleicons.org/helm/0F1689](https://cdn.simpleicons.org/helm/0F1689)" width="30" height="30" alt="Helm" />
+&#x20; <img src="[https://cdn.simpleicons.org/nginx/009639](https://cdn.simpleicons.org/nginx/009639)" width="30" height="30" alt="NGINX" />
+&#x20; <img src="[https://cdn.simpleicons.org/prometheus/E6522C](https://cdn.simpleicons.org/prometheus/E6522C)" width="30" height="30" alt="Prometheus" />
+&#x20; <img src="[https://cdn.simpleicons.org/grafana/F46800](https://cdn.simpleicons.org/grafana/F46800)" width="30" height="30" alt="Grafana" />
+&#x20; <img src="[https://cdn.simpleicons.org/datadog/632CA6](https://cdn.simpleicons.org/datadog/632CA6)" width="30" height="30" alt="Datadog" />
+&#x20; <img src="[https://cdn.simpleicons.org/python/3776AB](https://cdn.simpleicons.org/python/3776AB)" width="30" height="30" alt="Python" />
+&#x20; <img src="[https://cdn.simpleicons.org/git/F05032](https://cdn.simpleicons.org/git/F05032)" width="30" height="30" alt="Git" />
+&#x20; <img src="[https://cdn.simpleicons.org/github/181717](https://cdn.simpleicons.org/github/181717)" width="30" height="30" alt="GitHub" />
 </p>
 
-🔹 **AWS EC2** — Compute Services  
-🔹 **AWS S3** — Object Storage  
-🔹 **AWS RDS** — Managed Databases  
-🔹 **AWS IAM** — Identity and Access Management  
-🔹 **AWS Lambda** — Serverless Computing  
-🔹 **AWS CloudWatch** — Monitoring and Logging  
-🔹 **AWS VPC** — Virtual Private Cloud  
-🔹 **AWS CloudFront** — Content Delivery  
-🔹 **AWS Route 53** — DNS Management  
-🔹 **AWS EKS** — Managed Kubernetes  
+### 🚀 AWS Services
 
----
+\<p align="center">\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazonaws/FF9900](https://cdn.simpleicons.org/amazonaws/FF9900)" width="30" height="30" alt="AWS" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazonec2/FF9900](https://cdn.simpleicons.org/amazonec2/FF9900)" width="30" height="30" alt="Amazon EC2" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazons3/569A31](https://cdn.simpleicons.org/amazons3/569A31)" width="30" height="30" alt="Amazon S3" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/awslambda/FF9900](https://cdn.simpleicons.org/awslambda/FF9900)" width="30" height="30" alt="AWS Lambda" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazonrds/527FFF](https://cdn.simpleicons.org/amazonrds/527FFF)" width="30" height="30" alt="Amazon RDS" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazondynamodb/4053D6](https://cdn.simpleicons.org/amazondynamodb/4053D6)" width="30" height="30" alt="Amazon DynamoDB" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B](https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B)" width="30" height="30" alt="Amazon CloudWatch" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/amazonroute53/8C4FFF](https://cdn.simpleicons.org/amazonroute53/8C4FFF)" width="30" height="30" alt="Amazon Route 53" />\
+\</p>
 
-## 🐳 Containers & Orchestration
+### 🐳 Containers & Orchestration
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm" />
-</p>
+\<p align="center">\
+&#x20; \<img src="[https://cdn.simpleicons.org/docker/2496ED](https://cdn.simpleicons.org/docker/2496ED)" width="30" height="30" alt="Docker" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/kubernetes/326CE5](https://cdn.simpleicons.org/kubernetes/326CE5)" width="30" height="30" alt="Kubernetes" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/helm/0F1689](https://cdn.simpleicons.org/helm/0F1689)" width="30" height="30" alt="Helm" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/nginx/009639](https://cdn.simpleicons.org/nginx/009639)" width="30" height="30" alt="NGINX" />\
+\</p>
 
-🔹 **Docker** — Application Containerization  
-🔹 **Kubernetes** — Container Orchestration  
-🔹 **Helm** — Kubernetes Package Management  
-🔹 **Docker Compose** — Multi-Container Applications  
-🔹 **Kubernetes Services and Ingress** — Application Networking  
-🔹 **Amazon EKS** — Managed Kubernetes Service  
-🔹 **Container Security** — Image Scanning and Protection  
+### 🏗️ Infrastructure as Code
 
----
+\<p align="center">\
+&#x20; \<img src="[https://cdn.simpleicons.org/terraform/844FBA](https://cdn.simpleicons.org/terraform/844FBA)" width="30" height="30" alt="Terraform" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/ansible/EE0000](https://cdn.simpleicons.org/ansible/EE0000)" width="30" height="30" alt="Ansible" />\
+\</p>
 
-## ⚙️ Infrastructure as Code (IaC)
+### 🔄 CI/CD Pipeline
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform and Ansible" />
-</p>
+\<p align="center">\
+&#x20; \<img src="[https://cdn.simpleicons.org/jenkins/D24939](https://cdn.simpleicons.org/jenkins/D24939)" width="30" height="30" alt="Jenkins" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/githubactions/2088FF](https://cdn.simpleicons.org/githubactions/2088FF)" width="30" height="30" alt="GitHub Actions" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/gitlab/FC6D26](https://cdn.simpleicons.org/gitlab/FC6D26)" width="30" height="30" alt="GitLab CI/CD" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/argo/EF7B4D](https://cdn.simpleicons.org/argo/EF7B4D)" width="30" height="30" alt="Argo CD" />\
+\</p>
 
-🔹 **Terraform** — Infrastructure Provisioning  
-🔹 **Ansible** — Configuration Management  
-🔹 **Infrastructure Automation** — Repeatable Deployments  
-🔹 **Terraform Modules** — Reusable Infrastructure  
-🔹 **Ansible Playbooks** — Configuration Automation  
-🔹 **State Management** — Infrastructure Tracking  
-🔹 **AWS CloudFormation** — AWS Infrastructure as Code  
+### 📊 Monitoring & Observability
 
----
+\<p align="center">\
+&#x20; \<img src="[https://cdn.simpleicons.org/prometheus/E6522C](https://cdn.simpleicons.org/prometheus/E6522C)" width="30" height="30" alt="Prometheus" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/grafana/F46800](https://cdn.simpleicons.org/grafana/F46800)" width="30" height="30" alt="Grafana" />\
+&#x20; \<img src="[https://cdn.simpleicons.org/datadog/632CA6](https://cdn.simpleicons.org/datadog/632CA6)" width="30" height="30" alt="Datadog" />\
+\</p>
 
-## 🔄 CI/CD & DevOps
+### How to use it
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github" alt="Jenkins, GitHub Actions, GitLab, Git and GitHub" />
-</p>
+1. Open your GitHub profile repository: `chintu-cloud/chintu-cloud`.
+2. Open `README.md` and click Edit.
+3. Paste the code above.
+4. Click Commit changes and refresh your profile.
 
-🔹 **Jenkins** — CI/CD Pipeline Automation  
-🔹 **GitHub Actions** — Automated Workflows  
-🔹 **GitLab CI/CD** — Continuous Integration and Delivery  
-🔹 **Git** — Version Control  
-🔹 **GitHub** — Code Hosting and Collaboration  
-🔹 **Automated Testing** — Software Quality Validation  
-🔹 **Continuous Deployment** — Automated Releases  
-🔹 **GitOps** — Git-Based Deployment  
-🔹 **Argo CD** — GitOps Continuous Delivery  
-
----
-
-## 📊 Monitoring & Observability
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
-   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="65" alt="Amazon CloudWatch" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudTrail_48.svg" width="65" alt="AWS CloudTrail" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-Config_48.svg" width="65" alt="AWS Config" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Analytics/48/Arch_Amazon-Athena_48.svg" width="65" alt="Amazon Athena" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Analytics/48/Arch_AWS-Glue_48.svg" width="65" alt="AWS Glue" />
-</p>
-
-🔹 **Prometheus** — Metrics Collection  
-🔹 **Grafana** — Dashboard Visualization  
-🔹 **Alertmanager** — Alert Management  
-🔹 **AWS CloudWatch** — Cloud Monitoring and Logging  
-🔹 **Datadog** — Infrastructure Monitoring  
-🔹 **Metrics Collection** — System Performance Tracking  
-🔹 **Infrastructure Monitoring** — Resource Health Monitoring  
-🔹 **Log Analysis** — Troubleshooting and Diagnostics  
-
----
-
-## 💻 Programming & Scripting
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" alt="Python, Java, JavaScript and Bash" />
-</p>
-
-🔹 **Python** — Automation and Scripting  
-🔹 **Java** — Application Development Fundamentals  
-🔹 **JavaScript** — Web Programming  
-🔹 **Bash** — Shell Scripting  
-🔹 **YAML** — Configuration Files and CI/CD Pipelines  
-🔹 **JSON** — Data Exchange and Configuration  
-🔹 **SQL** — Database Queries  
-
----
-
-## 🐧 Linux, Networking & Web Servers
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx" alt="Linux, Ubuntu, Bash and Nginx" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="65" alt="Amazon VPC" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="65" alt="Amazon Route 53" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="65" alt="Amazon CloudFront" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="65" alt="Elastic Load Balancing" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-API-Gateway_48.svg" width="65" alt="Amazon API Gateway" />
-</p>
-
-🔹 **Linux Commands** — File Management and System Administration  
-🔹 **Users and Permissions** — Access Control  
-🔹 **Bash Scripting** — Task Automation  
-🔹 **Process and Service Management** — System Operations  
-🔹 **SSH** — Secure Remote Access  
-🔹 **IP Addresses and CIDR** — Network Addressing  
-🔹 **DNS** — Domain Name Resolution  
-🔹 **TCP/IP, HTTP and HTTPS** — Network Communication  
-🔹 **Public and Private Subnets** — Network Segmentation  
-🔹 **NAT Gateway and Route Tables** — Network Routing  
-🔹 **Firewalls and Security Groups** — Network Security  
-🔹 **Nginx and Apache** — Web Servers  
-🔹 **Reverse Proxy** — Application Traffic Routing  
-🔹 **Load Balancers** — Traffic Distribution  
-🔹 **TLS/SSL Certificates** — Secure Communication  
-
----
-
-## 🔐 DevSecOps & Security
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" alt="Docker, Kubernetes and GitHub Actions" />
- <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="65" alt="AWS IAM" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Key-Management-Service_48.svg" width="65" alt="AWS KMS" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Secrets-Manager_48.svg" width="65" alt="AWS Secrets Manager" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.svg" width="65" alt="AWS WAF" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_Amazon-GuardDuty_48.svg" width="65" alt="Amazon GuardDuty" />
-</p>
-
-🔹 **AWS IAM** — Roles, Policies and Permissions  
-🔹 **Least Privilege** — Minimum Required Access  
-🔹 **Trivy** — Container Vulnerability Scanning  
-🔹 **SonarQube** — Code Quality and Security Analysis  
-🔹 **Secrets Management** — Protecting Credentials  
-🔹 **Container Security** — Securing Images and Workloads  
-🔹 **CI/CD Security** — Protecting Deployment Pipelines  
-🔹 **Encryption and HTTPS** — Data Protection  
-
----
-
-## 🛠️ Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman" alt="VS Code, Git, GitHub, GitLab and Postman" />
- <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudFormation_48.svg" width="65" alt="AWS CloudFormation" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeBuild_48.svg" width="65" alt="AWS CodeBuild" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeDeploy_48.svg" width="65" alt="AWS CodeDeploy" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodePipeline_48.svg" width="65" alt="AWS CodePipeline" />
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Container-Registry_48.svg" width="65" alt="Amazon ECR" />
-</p>
-
-🔹 **Visual Studio Code** — Code Editor  
-🔹 **Git and GitHub** — Version Control and Collaboration  
-🔹 **GitLab** — Source Code Management and CI/CD  
-🔹 **Postman** — API Testing  
-🔹 **AWS CLI** — Command-Line Cloud Management  
-🔹 **Docker CLI** — Container Management  
-🔹 **kubectl** — Kubernetes Management  
-🔹 **Terraform CLI** — Infrastructure Automation  
-🔹 **Ansible CLI** — Configuration Automation
-
----
+Note: GitHub supports HTML image tags inside Markdown, but an individual service icon can still fail if its CDN slug is unsupported. If an AWS service icon is missing, use its official AWS architecture SVG instead.
 
 
 
