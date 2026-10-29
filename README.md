@@ -136,6 +136,10 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 </div>
 
+<p align="center">
+  <b>☁️ LEARN • ⚙️ AUTOMATE • 🔄 DEPLOY • 📊 MONITOR • 🚀 SCALE</b>
+</p>
+
 ## ☁️ Cloud Platforms
 
 🔹 **AWS EC2** - Compute Services  
