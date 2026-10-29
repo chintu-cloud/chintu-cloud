@@ -14,8 +14,10 @@
 👨‍💻 Cloud & DevOps Engineer
 
 ☁️ AWS • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • 🚀 CI/CD
+<p align="center">
+  <b>☁️ LEARN • ⚙️ AUTOMATE • 🔄 DEPLOY • 📊 MONITOR • 🚀 SCALE</b>
+</p>
 
-Building Scalable Infrastructure • Automating Everything • Learning Every Day
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 
@@ -136,9 +138,6 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 </div>
 
-<p align="center">
-  <b>☁️ LEARN • ⚙️ AUTOMATE • 🔄 DEPLOY • 📊 MONITOR • 🚀 SCALE</b>
-</p>
 
 ## ☁️ Cloud Platforms
 
