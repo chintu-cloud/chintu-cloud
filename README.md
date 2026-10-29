@@ -260,6 +260,11 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx" alt="Linux, Ubuntu, Bash and Nginx" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="65" alt="Amazon VPC" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="65" alt="Amazon Route 53" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="65" alt="Amazon CloudFront" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="65" alt="Elastic Load Balancing" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-API-Gateway_48.svg" width="65" alt="Amazon API Gateway" />
 </p>
 
 🔹 **Linux Commands** — File Management and System Administration  
