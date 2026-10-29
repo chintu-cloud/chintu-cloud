@@ -144,6 +144,15 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
 </p>
 
+<p align="center">
+  <img src="./icons/amazon-ec2.png" width="60" alt="Amazon EC2" />
+  <img src="./icons/aws-lambda.png" width="60" alt="AWS Lambda" />
+  <img src="./icons/amazon-ecs.png" width="60" alt="Amazon ECS" />
+  <img src="./icons/amazon-eks.png" width="60" alt="Amazon EKS" />
+  <img src="./icons/aws-fargate.png" width="60" alt="AWS Fargate" />
+  <img src="./icons/aws-auto-scaling.png" width="60" alt="AWS Auto Scaling" />
+</p>
+
 🔹 **AWS EC2** — Compute Services  
 🔹 **AWS S3** — Object Storage  
 🔹 **AWS RDS** — Managed Databases  
