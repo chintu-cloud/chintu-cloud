@@ -176,6 +176,29 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 </div>
 
 
+## 🔐 Networking & Cloud Security
+
+- 🌐 VPC, public and private subnets, routing tables
+- 🔒 IAM users, roles, policies, and least-privilege access
+- 🛡️ Security groups, network ACLs, and firewall rules
+- ⚖️ Load balancers, target groups, and Auto Scaling
+- 🔑 SSH, key pairs, TLS/SSL, and HTTPS
+- 🌍 Route 53, DNS, NAT Gateway, and internet gateways
+
+## ⚙️ Core DevOps Practices
+
+- 🔄 Continuous Integration and Continuous Delivery (CI/CD)
+- 🏗️ Infrastructure as Code (IaC)
+- 🐳 Containerization and orchestration
+- 🚀 Automated application deployment
+- 📈 Monitoring, logging, and alerting
+- 🔐 Cloud security and access management
+- 🔧 Version control and collaborative development
+- ♻️ Reliability, scalability, and troubleshooting
+
+
+
+---
 
 
 
