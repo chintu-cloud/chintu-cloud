@@ -289,6 +289,11 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" alt="Docker, Kubernetes and GitHub Actions" />
+ <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="65" alt="AWS IAM" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Key-Management-Service_48.svg" width="65" alt="AWS KMS" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Secrets-Manager_48.svg" width="65" alt="AWS Secrets Manager" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.svg" width="65" alt="AWS WAF" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_Amazon-GuardDuty_48.svg" width="65" alt="Amazon GuardDuty" />
 </p>
 
 🔹 **AWS IAM** — Roles, Policies and Permissions  
@@ -306,6 +311,11 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman" alt="VS Code, Git, GitHub, GitLab and Postman" />
+ <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudFormation_48.svg" width="65" alt="AWS CloudFormation" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeBuild_48.svg" width="65" alt="AWS CodeBuild" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeDeploy_48.svg" width="65" alt="AWS CodeDeploy" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodePipeline_48.svg" width="65" alt="AWS CodePipeline" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Container-Registry_48.svg" width="65" alt="Amazon ECR" />
 </p>
 
 🔹 **Visual Studio Code** — Code Editor  
