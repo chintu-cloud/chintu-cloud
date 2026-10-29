@@ -1,3 +1,9 @@
+💻 Programming & Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" alt="Programming and scripting languages" />
+</p>
+ 
  <div align="center"> 
    
 
