@@ -145,12 +145,10 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 </p>
 
 <p align="center">
-  <img src="./icons/amazon-ec2.png" width="60" alt="Amazon EC2" />
-  <img src="./icons/aws-lambda.png" width="60" alt="AWS Lambda" />
-  <img src="./icons/amazon-ecs.png" width="60" alt="Amazon ECS" />
-  <img src="./icons/amazon-eks.png" width="60" alt="Amazon EKS" />
-  <img src="./icons/aws-fargate.png" width="60" alt="AWS Fargate" />
-  <img src="./icons/aws-auto-scaling.png" width="60" alt="AWS Auto Scaling" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="65" alt="Amazon EC2" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="65" alt="AWS Lambda" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Container-Service_48.svg" width="65" alt="Amazon ECS" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-Elastic-Kubernetes-Service_48.svg" width="65" alt="Amazon EKS" />
 </p>
 
 🔹 **AWS EC2** — Compute Services  
