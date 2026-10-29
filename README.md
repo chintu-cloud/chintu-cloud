@@ -83,15 +83,21 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ⚡ Who Am I?
 
-<img align="right" width="320" alt="DevOps Engineer" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif"/>
 
-+ 🌩️ Passionate about building scalable cloud infrastructure and automating workflows
-+ 🎓 MCA Graduate (2025) | Presidency College, Berhampur
-+ 🚀 Building Cloud, DevOps & Infrastructure Automation Projects
-+ 🌱 Learning Advanced Kubernetes, GitOps, ArgoCD & AWS Automation
-+ 🤝 Open to Cloud-Native & Open-Source Collaborations
+
+<img align="right" width="300" alt="Cloud and DevOps Engineering Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
+
+- ☁️ Passionate about cloud computing, scalable infrastructure, and DevOps automation.
+- 🎓 MCA Graduate (2025) | Presidency College, Berhampur.
+- ⚙️ Building hands-on projects with AWS, Docker, Kubernetes, and Terraform.
+- 🚀 Automating CI/CD pipelines and exploring cloud-native deployment practices.
+- 📈 Developing skills in infrastructure as code, monitoring, and system reliability.
+- 🌱 Continuously learning Kubernetes, GitOps, Argo CD, and AWS automation.
+- 🤝 Interested in collaborating on DevOps, cloud infrastructure, and open-source projects.
+
+**My Goal:** To build secure, scalable, and reliable cloud solutions through automation and continuous improvement.
 
 
 
