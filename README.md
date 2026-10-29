@@ -6,15 +6,24 @@
 
 
 
+
+
 <!-- Cute Cat Saying Hi -->
 <p align="center">
   <img src="./hi-cat.png" width="150" alt="Cute cat saying Hi" />
 </p>
 
-<!-- Purple Animated Name -->
+<!-- Greeting with Emojis -->
+<h2 align="center">
+  👦🏻 👋 Hi, I'm
+</h2>
+
+<!-- Purple Animated Name with Different Font -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I%27m+CHANDAN+MOHANTY" alt="Hi, I'm CHANDAN MOHANTY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2500&pause=1000&color=AD5CFF&center=true&vCenter=true&width=800&height=70&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
+
+
 
 
 
