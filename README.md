@@ -1,6 +1,6 @@
  <div align="center"> 
    
-#<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/483084ef-76b0-4bbd-aa89-4a6bdd8c5a3f" /> # 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/483084ef-76b0-4bbd-aa89-4a6bdd8c5a3f" /> # 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷
 
 
 
