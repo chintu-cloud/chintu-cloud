@@ -141,102 +141,167 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 
 ## ☁️ Cloud Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-</p>
-🔹 **AWS EC2** - Compute Services  
-🔹 **AWS S3** - Object Storage  
-🔹 **AWS RDS** - Managed Databases  
-🔹 **AWS IAM** - Identity & Access Management  
-🔹 **AWS Lambda** - Serverless Computing  
-🔹 **AWS CloudWatch** - Monitoring & Logging  
-🔹 **AWS VPC** - Secure Network Design  
+
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" alt="AWS" />\
+\</p>
+
+🔹 **AWS EC2** — Compute Services\
+🔹 **AWS S3** — Object Storage\
+🔹 **AWS RDS** — Managed Databases\
+🔹 **AWS IAM** — Identity & Access Management\
+🔹 **AWS Lambda** — Serverless Computing\
+🔹 **AWS CloudWatch** — Monitoring & Logging\
+🔹 **AWS VPC** — Virtual Private Cloud\
+🔹 **AWS CloudFront** — Content Delivery\
+🔹 **AWS Route 53** — DNS Management\
+🔹 **AWS EKS** — Managed Kubernetes
 
 ---
 
 ## 🐳 Containers & Orchestration
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,helm](https://skillicons.dev/icons?i=docker,kubernetes,helm)" alt="Docker, Kubernetes and Helm" />
 </p>
-🔹 Docker  
-🔹 Kubernetes  
-🔹 Helm Charts  
-🔹 Container Security  
-🔹 Kubernetes Services & Ingress  
+
+🔹 **Docker** — Application Containerization\
+🔹 **Kubernetes** — Container Orchestration\
+🔹 **Helm** — Kubernetes Package Management\
+🔹 **Docker Compose** — Multi-Container Applications\
+🔹 **Container Security** — Image Scanning & Protection\
+🔹 **Kubernetes Services & Ingress** — Application Networking
+🔹 **Amazon EKS** — Managed Kubernetes Service
 
 ---
 
-## ⚙️ Infrastructure as Code
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform and Ansible" />
-</p>
-🔹 Terraform  
-🔹 Ansible  
-🔹 Infrastructure Automation  
-🔹 Configuration Management  
-🔹 Reusable Modules & Playbooks  
+## ⚙️ Infrastructure as Code (IaC)
+
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=terraform,ansible](https://skillicons.dev/icons?i=terraform,ansible)" alt="Terraform and Ansible" />\
+\</p>
+
+🔹 **Terraform** — Infrastructure Provisioning\
+🔹 **Ansible** — Configuration Management\
+🔹 **Infrastructure Automation** — Repeatable Deployments\
+🔹 **Terraform Modules** — Reusable Infrastructure\
+🔹 **Ansible Playbooks** — Configuration Automation\
+🔹 **State Management** — Infrastructure Tracking\
+🔹 **AWS CloudFormation** — AWS Infrastructure as Code
 
 ---
 
 ## 🔄 CI/CD & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman" alt="Developer tools" />
-</p>
-🔹 Jenkins  
-🔹 GitHub Actions  
-🔹 GitLab CI/CD  
-🔹 Automated Testing  
-🔹 Continuous Deployment  
-🔹 GitOps Practices  
 
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github)" alt="Jenkins, GitHub Actions, GitLab, Git and GitHub" />\
+\</p>
 
+🔹 **Jenkins** — CI/CD Pipeline Automation\
+🔹 **GitHub Actions** — Automated Workflows\
+🔹 **GitLab CI/CD** — Continuous Integration & Delivery\
+🔹 **Git** — Version Control\
+🔹 **GitHub** — Code Hosting & Collaboration\
+🔹 **Automated Testing** — Software Quality Validation\
+🔹 **Continuous Deployment** — Automated Releases\
+🔹 **GitOps Practices** — Git-Based Deployment\
+🔹 **Argo CD** — GitOps Continuous Delivery
 
 ---
 
 ## 📊 Monitoring & Observability
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana" />
-</p>
-🔹 Prometheus  
-🔹 Grafana  
-🔹 Alert Manager  
-🔹 Metrics Collection  
-🔹 Infrastructure Monitoring  
-🔹 Dashboard Visualization  
 
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=prometheus,grafana](https://skillicons.dev/icons?i=prometheus,grafana)" alt="Prometheus and Grafana" />\
+\</p>
 
+🔹 **Prometheus** — Metrics Collection\
+🔹 **Grafana** — Dashboard Visualization\
+🔹 **Alertmanager** — Alert Management\
+🔹 **AWS CloudWatch** — Cloud Monitoring & Logging\
+🔹 **Datadog** — Infrastructure Monitoring\
+🔹 **Metrics Collection** — System Performance Tracking\
+🔹 **Infrastructure Monitoring** — Resource Health Monitoring\
+🔹 **Log Analysis** — Troubleshooting & Diagnostics
 
 ---
 
 ## 💻 Programming & Scripting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" alt="Programming and scripting languages" />
-</p>
-🔹 Python 🐍  
-🔹 Java ☕  
-🔹 JavaScript ✨  
-🔹 Bash 🐧  
+
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,javascript,bash](https://skillicons.dev/icons?i=python,java,javascript,bash)" alt="Python, Java, JavaScript and Bash" />\
+\</p>
+
+🔹 **Python** 🐍 — Automation & Scripting\
+🔹 **Java** ☕ — Application Development Fundamentals\
+🔹 **JavaScript** ✨ — Web Programming\
+🔹 **Bash** 🐧 — Shell Scripting\
+🔹 **YAML** — Configuration Files & CI/CD Pipelines\
+🔹 **JSON** — Data Exchange & Configuration\
+🔹 **SQL** — Database Queries
 
 ---
+
 ## 🐧 Linux, Networking & Web Servers
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache" alt="Linux, Bash and web servers" />
-</p>
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache](https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache)" alt="Linux, Ubuntu, Bash, Nginx and Apache" />\
+\</p>
 
-🔹 Linux Commands, Users and Permissions
-🔹 Bash Shell Scripting
-🔹 Process and Service Management
-🔹 SSH and Secure Remote Access
-🔹 IP Addresses, CIDR and Subnetting
-🔹 DNS, TCP/IP, HTTP and HTTPS
-🔹 Public and Private Subnets
-🔹 NAT Gateway, Route Tables and Firewalls
-🔹 Nginx, Apache and Reverse Proxies
-🔹 Load Balancers and Routing
-🔹 TLS/SSL Certificates
+🔹 **Linux Commands** — File Management & System Administration\
+🔹 **Users & Permissions** — Access Control\
+🔹 **Bash Shell Scripting** — Task Automation\
+🔹 **Process & Service Management** — System Operations\
+🔹 **SSH** — Secure Remote Access\
+🔹 **IP Addresses & CIDR** — Network Addressing\
+🔹 **DNS** — Domain Name Resolution\
+🔹 **TCP/IP, HTTP & HTTPS** — Network Communication\
+🔹 **Public & Private Subnets** — Network Segmentation\
+🔹 **NAT Gateway & Route Tables** — Network Routing\
+🔹 **Firewalls & Security Groups** — Network Security\
+🔹 **Nginx & Apache** — Web Servers\
+🔹 **Reverse Proxy** — Application Traffic Routing\
+🔹 **Load Balancers** — Traffic Distribution\
+🔹 **TLS/SSL Certificates** — Secure Communication
 
 ---
+
+## 🔐 DevSecOps & Security
+
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,githubactions](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)" alt="Docker, Kubernetes and GitHub Actions" />\
+\</p>
+
+🔹 **AWS IAM** — Roles, Policies & Permissions\
+🔹 **Least Privilege** — Minimum Required Access\
+🔹 **Trivy** — Container Vulnerability Scanning\
+🔹 **SonarQube** — Code Quality & Security Analysis\
+🔹 **Secrets Management** — Protecting Credentials\
+🔹 **Container Security** — Secure Images & Workloads\
+🔹 **CI/CD Security** — Protecting Deployment Pipelines\
+🔹 **Encryption & HTTPS** — Data Protection
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">\
+&#x20; \<img src="[https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman](https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman)" alt="VS Code, Git, GitHub, GitLab and Postman" />\
+\</p>
+
+🔹 **Visual Studio Code** — Code Editor\
+🔹 **Git & GitHub** — Version Control & Collaboration\
+🔹 **GitLab** — Source Code & CI/CD\
+🔹 **Postman** — API Testing\
+🔹 **AWS CLI** — Command-Line Cloud Management\
+🔹 **Docker CLI** — Container Management\
+🔹 **kubectl** — Kubernetes Management\
+🔹 **Terraform CLI** — Infrastructure Automation\
+🔹 **Ansible CLI** — Configuration Automation
+
+---
+
+
 
 # 📊 GitHub Analytics
 
