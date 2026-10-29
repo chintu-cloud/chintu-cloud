@@ -117,8 +117,6 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 # 🚀 Tech Stack
 
-## ☁️ Cloud Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
