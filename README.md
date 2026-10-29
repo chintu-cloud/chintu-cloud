@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%91%A6%F0%9F%91%8B+Hii%2C+CHANDAN+MOHANTY" alt="👦👋 Hii, CHANDAN MOHANTY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%91%A6%F0%9F%91%8B+Hii%2C+CHANDAN+MOHANTY" alt=" 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷 𝓶𝓸𝓱𝓪𝓷𝓽𝔂" />
 </p>
 
 
