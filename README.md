@@ -143,7 +143,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 ## ☁️ Cloud Platforms
 
 <p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" alt="AWS" />
+&#x20; <img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" alt="AWS" />
 </p>
 
 🔹 **AWS EC2** — Compute Services\
