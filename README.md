@@ -158,84 +158,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 </div>
 
-The right way is to use valid Shields.io badge URLs in your GitHub `README.md`. Keep the `/` characters in `https://` and use the exact HTML below. You do not need an `icons` folder.
 
-## 1. AWS tools
 
-Copy these two sections separately. This version uses simple Shields.io badges without optional logo identifiers, reducing logo-related problems.
 
-### ☁️ AWS CLOUD TOOLS
-
-\<p align="center">\
-\<img src="[https://img.shields.io/badge/AWS-FF9900?style=for-the-badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)" alt="AWS">\
-\<img src="[https://img.shields.io/badge/EC2-FF9900?style=for-the-badge](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)" alt="EC2">\
-\<img src="[https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)" alt="Lambda">\
-\<img src="[https://img.shields.io/badge/S3-569A31?style=for-the-badge](https://img.shields.io/badge/S3-569A31?style=for-the-badge)" alt="S3">\
-\<img src="[https://img.shields.io/badge/RDS-527FFF?style=for-the-badge](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge)" alt="RDS">\
-\<img src="[https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)" alt="DynamoDB">\
-\<img src="[https://img.shields.io/badge/EBS-FF9900?style=for-the-badge](https://img.shields.io/badge/EBS-FF9900?style=for-the-badge)" alt="EBS">\
-\<img src="[https://img.shields.io/badge/EFS-FF9900?style=for-the-badge](https://img.shields.io/badge/EFS-FF9900?style=for-the-badge)" alt="EFS">\
-\<img src="[https://img.shields.io/badge/ECS-FF9900?style=for-the-badge](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge)" alt="ECS">\
-\<img src="[https://img.shields.io/badge/EKS-FF9900?style=for-the-badge](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge)" alt="EKS">\
-\<img src="[https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge)" alt="Redshift">\
-\<img src="[https://img.shields.io/badge/VPC-FF9900?style=for-the-badge](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge)" alt="VPC">\
-\<img src="[https://img.shields.io/badge/IAM-DD344C?style=for-the-badge](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)" alt="IAM">\
-\<img src="[https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge)" alt="Route 53">\
-\<img src="[https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)" alt="CloudFront">\
-\<img src="[https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge](https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge)" alt="Load Balancer">\
-\<img src="[https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge)" alt="API Gateway">\
-\<img src="[https://img.shields.io/badge/KMS-DD344C?style=for-the-badge](https://img.shields.io/badge/KMS-DD344C?style=for-the-badge)" alt="KMS">\
-\<img src="[https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge)" alt="Secrets Manager">\
-\<img src="[https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)" alt="CloudWatch">\
-\<img src="[https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge)" alt="CloudTrail">\
-\<img src="[https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge)" alt="CloudFormation">\
-\<img src="[https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge)" alt="Auto Scaling">\
-\<img src="[https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge](https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge)" alt="CodeDeploy">\
-\<img src="[https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge](https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge)" alt="CodeBuild">\
-\<img src="[https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge](https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge)" alt="CodePipeline">\
-\</p>
-
-## 2. DevOps tools
-
-### ⚙️ DEVOPS TOOLS
-
-<p align="center">
-<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)" alt="Docker">
-<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)" alt="Kubernetes">
-<img src="[https://img.shields.io/badge/Helm-0F1689?style=for-the-badge](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge)" alt="Helm">
-<img src="[https://img.shields.io/badge/NGINX-009639?style=for-the-badge](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)" alt="NGINX">
-<img src="[https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge)" alt="Terraform">
-<img src="[https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge)" alt="Ansible">
-<img src="[https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge)" alt="Pulumi">
-<img src="[https://img.shields.io/badge/Chef-F09820?style=for-the-badge](https://img.shields.io/badge/Chef-F09820?style=for-the-badge)" alt="Chef">
-<img src="[https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge)" alt="Puppet">
-<img src="[https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)" alt="Jenkins">
-<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)" alt="GitHub Actions">
-<img src="[https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge)" alt="GitLab CI">
-<img src="[https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge)" alt="Argo CD">
-<img src="[https://img.shields.io/badge/CircleCI-343434?style=for-the-badge](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge)" alt="CircleCI">
-<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge)" alt="Git">
-<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)" alt="GitHub">
-<img src="[https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge)" alt="Bitbucket">
-<img src="[https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)" alt="Prometheus">
-<img src="[https://img.shields.io/badge/Grafana-F46800?style=for-the-badge](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)" alt="Grafana">
-<img src="[https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge)" alt="Datadog">
-<img src="[https://img.shields.io/badge/Nagios-000000?style=for-the-badge](https://img.shields.io/badge/Nagios-000000?style=for-the-badge)" alt="Nagios">
-<img src="[https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge)" alt="Zabbix">
-<img src="[https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)" alt="OpenTelemetry">
-<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)" alt="Linux">
-<img src="[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)" alt="Ubuntu">
-<img src="[https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)" alt="Bash">
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)" alt="Python">
-<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)" alt="Java">
-<img src="[https://img.shields.io/badge/Apache-D22128?style=for-the-badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge)" alt="Apache">
-<img src="[https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)" alt="SonarQube">
-<img src="[https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)" alt="Trivy">
-<img src="[https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge)" alt="Snyk">
-<img src="[https://img.shields.io/badge/Vault-000000?style=for-the-badge](https://img.shields.io/badge/Vault-000000?style=for-the-badge)" alt="Vault">
-</p>
-
-.
 
 # 📊 GitHub Analytics
 
