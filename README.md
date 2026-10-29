@@ -8,9 +8,8 @@
 
 
 
-<!-- Cute Cat Saying Hi -->
 <p align="center">
-  <img src="./hi-cat.png" width="150" alt="Cute cat saying Hi" />
+  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/main/hi-cat.png" width="150" alt="Cute cat saying Hi" />
 </p>
 
 <!-- Greeting with Emojis -->
