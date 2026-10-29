@@ -8,11 +8,7 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/main/hi-cat.png" width="150" alt="Cute cat saying Hi" />
-</p>
-
-<!-- Greeting with Emojis -->
+<--!-- Greeting with Emojis -->
 <h2 align="center">
   👦🏻 👋 Hi, I'm
 </h2>
