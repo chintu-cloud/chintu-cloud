@@ -115,7 +115,7 @@ Goal: Becoming a Production-Ready DevOps Engineer
 
 # 🚀 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,argocd,prometheus,grafana,linux,bash,python,java,javascript,mysql,git,github,maven,postman,vscode&perline=8" />
 </p>
 
