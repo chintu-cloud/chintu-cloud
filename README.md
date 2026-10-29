@@ -1,13 +1,9 @@
  <div align="center"> 
    
-<img width="800" height="273" alt="i-m-chandan-mohanty-29-10-2026 (1)" src="https://github.com/user-attachments/assets/e1a62efd-5577-430d-bf7a-3b43d81bf250" />
+<img width="800" height="273" alt="i-m-chandan-mohanty-29-10-2026" src="https://github.com/user-attachments/assets/ed813f95-a227-4808-98d0-15f5e0b8a4d7" />
 
 
-
-
-
-
-                                                                                                                                               
+                                                                                                                                              
 👨‍💻 Cloud & DevOps Engineer
 
 ☁️ AWS • 🐳 Docker • ☸️ Kubernetes • 🏗️ Terraform • 🚀 CI/CD
