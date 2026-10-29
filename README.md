@@ -1,14 +1,6 @@
  <div align="center"> 
    
 
-
-
-
-
-
-
-
-<--!-- Greeting with Emojis -->
 <h2 align="center">
   👦🏻 👋 Hi, I'm
 </h2>
