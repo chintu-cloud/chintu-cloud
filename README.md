@@ -1,6 +1,6 @@
  <div align="center"> 
    
-<img width="800" height="289" alt="i-m-chandan-mohanty-29-10-2026" src="https://github.com/user-attachments/assets/1fe59522-164d-4d2a-8fab-9d32c4059683" />
+<img width="1000" height="289" alt="i-m-chandan-mohanty-29-10-2026" src="https://github.com/user-attachments/assets/1fe59522-164d-4d2a-8fab-9d32c4059683" />
 
 
 
