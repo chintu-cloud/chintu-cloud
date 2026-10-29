@@ -1,8 +1,6 @@
  <div align="center"> 
    
-<img width="800" height="273" alt="i-m-chandan-mohanty-29-10-2026" src="https://github.com/user-attachments/assets/ed813f95-a227-4808-98d0-15f5e0b8a4d7" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FI'M CHANDAN MOHANTY" alt="Typing SVG" />
                                                                                                                                               
 👨‍💻 Cloud & DevOps Engineer
 
