@@ -3,9 +3,14 @@
 
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4FD8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hii%2C+CHANDAN+MOHANTY+%F0%9F%91%A6" alt="👋 Hii, CHANDAN MOHANTY 👦" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%91%A6%F0%9F%91%8B+Hii%2C+CHANDAN+MOHANTY" alt="👦👋 Hii, CHANDAN MOHANTY" />
 </p>
+
+
+
+
 
 
 
