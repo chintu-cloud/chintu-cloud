@@ -116,6 +116,32 @@
 <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
 </p>
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="30" height="30" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" width="30" height="30" alt="Ansible" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="30" height="30" alt="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="30" height="30" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="30" height="30" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="30" height="30" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=helm" width="30" height="30" alt="Helm" />
+  <img src="https://skillicons.dev/icons?i=java" width="30" height="30" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="30" height="30" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="Argo CD" />
+</p>
 ---
 
 ### 📍 Quick Facts
