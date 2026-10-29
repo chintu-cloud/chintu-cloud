@@ -225,25 +225,15 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 </p>
 
 🔹 Linux Commands, Users and Permissions
-
 🔹 Bash Shell Scripting
-
 🔹 Process and Service Management
-
 🔹 SSH and Secure Remote Access
-
 🔹 IP Addresses, CIDR and Subnetting
-
 🔹 DNS, TCP/IP, HTTP and HTTPS
-
 🔹 Public and Private Subnets
-
 🔹 NAT Gateway, Route Tables and Firewalls
-
 🔹 Nginx, Apache and Reverse Proxies
-
 🔹 Load Balancers and Routing
-
 🔹 TLS/SSL Certificates
 
 ---
