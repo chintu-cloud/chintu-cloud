@@ -3,12 +3,11 @@
 
 
 
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4FD8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hii%2C+CHANDAN+MOHANTY+%F0%9F%91%A6" alt="👋 Hii, CHANDAN MOHANTY 👦" />
 </p>
+
+
 
 
 
