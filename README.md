@@ -142,9 +142,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## ☁️ Cloud Platforms
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" alt="AWS" />\
-\</p>
+<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" alt="AWS" />
+</p>
 
 🔹 **AWS EC2** — Compute Services\
 🔹 **AWS S3** — Object Storage\
@@ -162,7 +162,7 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 ## 🐳 Containers & Orchestration
 
 <p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,helm](https://skillicons.dev/icons?i=docker,kubernetes,helm)" alt="Docker, Kubernetes and Helm" />
+&#x20; <img src="[https://skillicons.dev/icons?i=docker,kubernetes,helm](https://skillicons.dev/icons?i=docker,kubernetes,helm)" alt="Docker, Kubernetes and Helm" />
 </p>
 
 🔹 **Docker** — Application Containerization\
@@ -177,9 +177,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## ⚙️ Infrastructure as Code (IaC)
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=terraform,ansible](https://skillicons.dev/icons?i=terraform,ansible)" alt="Terraform and Ansible" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=terraform,ansible](https://skillicons.dev/icons?i=terraform,ansible)" alt="Terraform and Ansible" />
+</p>
 
 🔹 **Terraform** — Infrastructure Provisioning\
 🔹 **Ansible** — Configuration Management\
@@ -193,9 +193,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 🔄 CI/CD & DevOps
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github)" alt="Jenkins, GitHub Actions, GitLab, Git and GitHub" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,git,github)" alt="Jenkins, GitHub Actions, GitLab, Git and GitHub" />
+</p>
 
 🔹 **Jenkins** — CI/CD Pipeline Automation\
 🔹 **GitHub Actions** — Automated Workflows\
@@ -211,9 +211,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 📊 Monitoring & Observability
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=prometheus,grafana](https://skillicons.dev/icons?i=prometheus,grafana)" alt="Prometheus and Grafana" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=prometheus,grafana](https://skillicons.dev/icons?i=prometheus,grafana)" alt="Prometheus and Grafana" />
+</p>
 
 🔹 **Prometheus** — Metrics Collection\
 🔹 **Grafana** — Dashboard Visualization\
@@ -228,9 +228,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 💻 Programming & Scripting
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,javascript,bash](https://skillicons.dev/icons?i=python,java,javascript,bash)" alt="Python, Java, JavaScript and Bash" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=python,java,javascript,bash](https://skillicons.dev/icons?i=python,java,javascript,bash)" alt="Python, Java, JavaScript and Bash" />
+</p>
 
 🔹 **Python** 🐍 — Automation & Scripting\
 🔹 **Java** ☕ — Application Development Fundamentals\
@@ -244,9 +244,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 🐧 Linux, Networking & Web Servers
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache](https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache)" alt="Linux, Ubuntu, Bash, Nginx and Apache" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache](https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache)" alt="Linux, Ubuntu, Bash, Nginx and Apache" />
+</p>
 
 🔹 **Linux Commands** — File Management & System Administration\
 🔹 **Users & Permissions** — Access Control\
@@ -268,9 +268,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 🔐 DevSecOps & Security
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=docker,kubernetes,githubactions](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)" alt="Docker, Kubernetes and GitHub Actions" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=docker,kubernetes,githubactions](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)" alt="Docker, Kubernetes and GitHub Actions" />
+</p>
 
 🔹 **AWS IAM** — Roles, Policies & Permissions\
 🔹 **Least Privilege** — Minimum Required Access\
@@ -285,9 +285,9 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 ## 🛠️ Developer Tools
 
-<p align="center">\
-&#x20; \<img src="[https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman](https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman)" alt="VS Code, Git, GitHub, GitLab and Postman" />\
-\</p>
+<p align="center">
+&#x20; <img src="[https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman](https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman)" alt="VS Code, Git, GitHub, GitLab and Postman" />
+</p>
 
 🔹 **Visual Studio Code** — Code Editor\
 🔹 **Git & GitHub** — Version Control & Collaboration\
