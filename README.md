@@ -1,6 +1,7 @@
  <div align="center"> 
    
- <img width="800" height="169" alt="i-m-chandan-mohanty-27-10-2026" src="https://github.com/user-attachments/assets/67f2c9ce-b7a5-420c-9f73-03e46ad2f8fd" />
+#<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/483084ef-76b0-4bbd-aa89-4a6bdd8c5a3f" /> # 𝓲'𝓶 𝓬𝓱𝓪𝓷𝓭𝓪𝓷
+
 
 
                                                                                                                                                
