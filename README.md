@@ -158,85 +158,84 @@ Building scalable cloud infrastructure, automating deployments, and creating rel
 
 </div>
 
+The right way is to use valid Shields.io badge URLs in your GitHub `README.md`. Keep the `/` characters in `https://` and use the exact HTML below. You do not need an `icons` folder.
 
+## 1. AWS tools
 
-## ☁️ AWS & DevOps Tools
+Copy these two sections separately. This version uses simple Shields.io badges without optional logo identifiers, reducing logo-related problems.
+
+### ☁️ AWS CLOUD TOOLS
+
+\<p align="center">\
+\<img src="[https://img.shields.io/badge/AWS-FF9900?style=for-the-badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)" alt="AWS">\
+\<img src="[https://img.shields.io/badge/EC2-FF9900?style=for-the-badge](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)" alt="EC2">\
+\<img src="[https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)" alt="Lambda">\
+\<img src="[https://img.shields.io/badge/S3-569A31?style=for-the-badge](https://img.shields.io/badge/S3-569A31?style=for-the-badge)" alt="S3">\
+\<img src="[https://img.shields.io/badge/RDS-527FFF?style=for-the-badge](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge)" alt="RDS">\
+\<img src="[https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)" alt="DynamoDB">\
+\<img src="[https://img.shields.io/badge/EBS-FF9900?style=for-the-badge](https://img.shields.io/badge/EBS-FF9900?style=for-the-badge)" alt="EBS">\
+\<img src="[https://img.shields.io/badge/EFS-FF9900?style=for-the-badge](https://img.shields.io/badge/EFS-FF9900?style=for-the-badge)" alt="EFS">\
+\<img src="[https://img.shields.io/badge/ECS-FF9900?style=for-the-badge](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge)" alt="ECS">\
+\<img src="[https://img.shields.io/badge/EKS-FF9900?style=for-the-badge](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge)" alt="EKS">\
+\<img src="[https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge)" alt="Redshift">\
+\<img src="[https://img.shields.io/badge/VPC-FF9900?style=for-the-badge](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge)" alt="VPC">\
+\<img src="[https://img.shields.io/badge/IAM-DD344C?style=for-the-badge](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)" alt="IAM">\
+\<img src="[https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge)" alt="Route 53">\
+\<img src="[https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)" alt="CloudFront">\
+\<img src="[https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge](https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge)" alt="Load Balancer">\
+\<img src="[https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge)" alt="API Gateway">\
+\<img src="[https://img.shields.io/badge/KMS-DD344C?style=for-the-badge](https://img.shields.io/badge/KMS-DD344C?style=for-the-badge)" alt="KMS">\
+\<img src="[https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge)" alt="Secrets Manager">\
+\<img src="[https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)" alt="CloudWatch">\
+\<img src="[https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge)" alt="CloudTrail">\
+\<img src="[https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge)" alt="CloudFormation">\
+\<img src="[https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge)" alt="Auto Scaling">\
+\<img src="[https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge](https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge)" alt="CodeDeploy">\
+\<img src="[https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge](https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge)" alt="CodeBuild">\
+\<img src="[https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge](https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge)" alt="CodePipeline">\
+\</p>
+
+## 2. DevOps tools
+
+### ⚙️ DEVOPS TOOLS
 
 <p align="center">
-&#x20; <img src="[https://cdn.simpleicons.org/amazonaws/FF9900](https://cdn.simpleicons.org/amazonaws/FF9900)" width="30" height="30" alt="AWS" />
-&#x20; <img src="[https://cdn.simpleicons.org/docker/2496ED](https://cdn.simpleicons.org/docker/2496ED)" width="30" height="30" alt="Docker" />
-&#x20; <img src="[https://cdn.simpleicons.org/kubernetes/326CE5](https://cdn.simpleicons.org/kubernetes/326CE5)" width="30" height="30" alt="Kubernetes" />
-&#x20; <img src="[https://cdn.simpleicons.org/terraform/844FBA](https://cdn.simpleicons.org/terraform/844FBA)" width="30" height="30" alt="Terraform" />
-&#x20; <img src="[https://cdn.simpleicons.org/jenkins/D24939](https://cdn.simpleicons.org/jenkins/D24939)" width="30" height="30" alt="Jenkins" />
-&#x20; <img src="[https://cdn.simpleicons.org/githubactions/2088FF](https://cdn.simpleicons.org/githubactions/2088FF)" width="30" height="30" alt="GitHub Actions" />
-&#x20; <img src="[https://cdn.simpleicons.org/gitlab/FC6D26](https://cdn.simpleicons.org/gitlab/FC6D26)" width="30" height="30" alt="GitLab" />
-&#x20; <img src="[https://cdn.simpleicons.org/ansible/EE0000](https://cdn.simpleicons.org/ansible/EE0000)" width="30" height="30" alt="Ansible" />
-&#x20; <img src="[https://cdn.simpleicons.org/helm/0F1689](https://cdn.simpleicons.org/helm/0F1689)" width="30" height="30" alt="Helm" />
-&#x20; <img src="[https://cdn.simpleicons.org/nginx/009639](https://cdn.simpleicons.org/nginx/009639)" width="30" height="30" alt="NGINX" />
-&#x20; <img src="[https://cdn.simpleicons.org/prometheus/E6522C](https://cdn.simpleicons.org/prometheus/E6522C)" width="30" height="30" alt="Prometheus" />
-&#x20; <img src="[https://cdn.simpleicons.org/grafana/F46800](https://cdn.simpleicons.org/grafana/F46800)" width="30" height="30" alt="Grafana" />
-&#x20; <img src="[https://cdn.simpleicons.org/datadog/632CA6](https://cdn.simpleicons.org/datadog/632CA6)" width="30" height="30" alt="Datadog" />
-&#x20; <img src="[https://cdn.simpleicons.org/python/3776AB](https://cdn.simpleicons.org/python/3776AB)" width="30" height="30" alt="Python" />
-&#x20; <img src="[https://cdn.simpleicons.org/git/F05032](https://cdn.simpleicons.org/git/F05032)" width="30" height="30" alt="Git" />
-&#x20; <img src="[https://cdn.simpleicons.org/github/181717](https://cdn.simpleicons.org/github/181717)" width="30" height="30" alt="GitHub" />
+<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)" alt="Docker">
+<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)" alt="Kubernetes">
+<img src="[https://img.shields.io/badge/Helm-0F1689?style=for-the-badge](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge)" alt="Helm">
+<img src="[https://img.shields.io/badge/NGINX-009639?style=for-the-badge](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)" alt="NGINX">
+<img src="[https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge)" alt="Terraform">
+<img src="[https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge)" alt="Ansible">
+<img src="[https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge)" alt="Pulumi">
+<img src="[https://img.shields.io/badge/Chef-F09820?style=for-the-badge](https://img.shields.io/badge/Chef-F09820?style=for-the-badge)" alt="Chef">
+<img src="[https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge)" alt="Puppet">
+<img src="[https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)" alt="Jenkins">
+<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)" alt="GitHub Actions">
+<img src="[https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge)" alt="GitLab CI">
+<img src="[https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge)" alt="Argo CD">
+<img src="[https://img.shields.io/badge/CircleCI-343434?style=for-the-badge](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge)" alt="CircleCI">
+<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge)" alt="Git">
+<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)" alt="GitHub">
+<img src="[https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge)" alt="Bitbucket">
+<img src="[https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)" alt="Prometheus">
+<img src="[https://img.shields.io/badge/Grafana-F46800?style=for-the-badge](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)" alt="Grafana">
+<img src="[https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge)" alt="Datadog">
+<img src="[https://img.shields.io/badge/Nagios-000000?style=for-the-badge](https://img.shields.io/badge/Nagios-000000?style=for-the-badge)" alt="Nagios">
+<img src="[https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge)" alt="Zabbix">
+<img src="[https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge)" alt="OpenTelemetry">
+<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)" alt="Linux">
+<img src="[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge)" alt="Ubuntu">
+<img src="[https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)" alt="Bash">
+<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)" alt="Python">
+<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)" alt="Java">
+<img src="[https://img.shields.io/badge/Apache-D22128?style=for-the-badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge)" alt="Apache">
+<img src="[https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)" alt="SonarQube">
+<img src="[https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)" alt="Trivy">
+<img src="[https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge)" alt="Snyk">
+<img src="[https://img.shields.io/badge/Vault-000000?style=for-the-badge](https://img.shields.io/badge/Vault-000000?style=for-the-badge)" alt="Vault">
 </p>
 
-### 🚀 AWS Services
-
-\<p align="center">\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazonaws/FF9900](https://cdn.simpleicons.org/amazonaws/FF9900)" width="30" height="30" alt="AWS" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazonec2/FF9900](https://cdn.simpleicons.org/amazonec2/FF9900)" width="30" height="30" alt="Amazon EC2" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazons3/569A31](https://cdn.simpleicons.org/amazons3/569A31)" width="30" height="30" alt="Amazon S3" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/awslambda/FF9900](https://cdn.simpleicons.org/awslambda/FF9900)" width="30" height="30" alt="AWS Lambda" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazonrds/527FFF](https://cdn.simpleicons.org/amazonrds/527FFF)" width="30" height="30" alt="Amazon RDS" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazondynamodb/4053D6](https://cdn.simpleicons.org/amazondynamodb/4053D6)" width="30" height="30" alt="Amazon DynamoDB" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B](https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B)" width="30" height="30" alt="Amazon CloudWatch" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/amazonroute53/8C4FFF](https://cdn.simpleicons.org/amazonroute53/8C4FFF)" width="30" height="30" alt="Amazon Route 53" />\
-\</p>
-
-### 🐳 Containers & Orchestration
-
-\<p align="center">\
-&#x20; \<img src="[https://cdn.simpleicons.org/docker/2496ED](https://cdn.simpleicons.org/docker/2496ED)" width="30" height="30" alt="Docker" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/kubernetes/326CE5](https://cdn.simpleicons.org/kubernetes/326CE5)" width="30" height="30" alt="Kubernetes" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/helm/0F1689](https://cdn.simpleicons.org/helm/0F1689)" width="30" height="30" alt="Helm" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/nginx/009639](https://cdn.simpleicons.org/nginx/009639)" width="30" height="30" alt="NGINX" />\
-\</p>
-
-### 🏗️ Infrastructure as Code
-
-\<p align="center">\
-&#x20; \<img src="[https://cdn.simpleicons.org/terraform/844FBA](https://cdn.simpleicons.org/terraform/844FBA)" width="30" height="30" alt="Terraform" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/ansible/EE0000](https://cdn.simpleicons.org/ansible/EE0000)" width="30" height="30" alt="Ansible" />\
-\</p>
-
-### 🔄 CI/CD Pipeline
-
-\<p align="center">\
-&#x20; \<img src="[https://cdn.simpleicons.org/jenkins/D24939](https://cdn.simpleicons.org/jenkins/D24939)" width="30" height="30" alt="Jenkins" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/githubactions/2088FF](https://cdn.simpleicons.org/githubactions/2088FF)" width="30" height="30" alt="GitHub Actions" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/gitlab/FC6D26](https://cdn.simpleicons.org/gitlab/FC6D26)" width="30" height="30" alt="GitLab CI/CD" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/argo/EF7B4D](https://cdn.simpleicons.org/argo/EF7B4D)" width="30" height="30" alt="Argo CD" />\
-\</p>
-
-### 📊 Monitoring & Observability
-
-\<p align="center">\
-&#x20; \<img src="[https://cdn.simpleicons.org/prometheus/E6522C](https://cdn.simpleicons.org/prometheus/E6522C)" width="30" height="30" alt="Prometheus" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/grafana/F46800](https://cdn.simpleicons.org/grafana/F46800)" width="30" height="30" alt="Grafana" />\
-&#x20; \<img src="[https://cdn.simpleicons.org/datadog/632CA6](https://cdn.simpleicons.org/datadog/632CA6)" width="30" height="30" alt="Datadog" />\
-\</p>
-
-### How to use it
-
-1. Open your GitHub profile repository: `chintu-cloud/chintu-cloud`.
-2. Open `README.md` and click Edit.
-3. Paste the code above.
-4. Click Commit changes and refresh your profile.
-
-Note: GitHub supports HTML image tags inside Markdown, but an individual service icon can still fail if its CDN slug is unsupported. If an AWS service icon is missing, use its official AWS architecture SVG instead.
-
-
+.
 
 # 📊 GitHub Analytics
 
