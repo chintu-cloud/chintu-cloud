@@ -194,6 +194,79 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 ---
 
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Computing
+- ▪️ AWS Advanced Services
+- ▪️ Cloud Architecture
+- ▪️ Serverless Computing
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & DevSecOps
+- ▪️ Docker & Kubernetes
+- ▪️ GitOps & ArgoCD
+- ▪️ CI/CD Pipelines
+- ▪️ Kubernetes Networking
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Infrastructure Automation
+- ▪️ Terraform Modules
+- ▪️ Ansible
+- ▪️ Infrastructure as Code
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Monitoring & Observability
+- ▪️ Prometheus
+- ▪️ Grafana
+- ▪️ Datadog
+- ▪️ AWS CloudWatch
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Generative AI
+- ▪️ Generative AI & LLMs
+- ▪️ RAG
+- ▪️ AI Agent Development
+- ▪️ LLM Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Forward Deployed Engineering
+- ▪️ AI Solution Deployment
+- ▪️ System Integration
+- ▪️ Customer-Centric Engineering
+- ▪️ Production AI Workflows
+
+</td>
+</tr>
+</table>
+
+```
+
+
+
+GitHub compatible
+
+&#x20;Each subject will appear in its own separate box, arranged in two columns.
+
+---
+
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
@@ -238,34 +311,6 @@ while True:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer" />
 
 </div>
-
----
-## 📚 Currently Learning
-
-Cloud:
-  - AWS Advanced Services
-  - Cloud Architecture
-
-DevOps:
-  - Kubernetes
-  - GitOps & ArgoCD
-  - CI/CD Pipelines
-
-Automation:
-  - Terraform Modules
-  - Ansible
-
-Monitoring:
-  - Prometheus
-  - Grafana
-  - Datadog
-
-AI & Emerging Technologies:
-  - FDE (Full-Stack Development Engineering)
-  - RAG (Retrieval-Augmented Generation)
-  - Generative AI
-  - AI Agents
-  - LLM Integration
 
 ---
  
