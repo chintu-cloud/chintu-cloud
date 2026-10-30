@@ -176,7 +176,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
