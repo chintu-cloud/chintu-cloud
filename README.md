@@ -193,6 +193,38 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </div>
 
 ---
+Here is the direct GitHub README image link for your profile analytics:
+
+1\. GitHub Stats\
+[Open GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintu-cloud\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github\&utm_source=chatgpt.com)
+
+2\. Top Languages\
+[Open Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud\&layout=compact\&theme=tokyonight\&hide_border=true\&utm_source=chatgpt.com)
+
+3\. GitHub Streak\
+[Open GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud\&theme=tokyonight\&hide_border=true\&utm_source=chatgpt.com)
+
+### Copy this complete code into your README.md
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=chintu-cloud\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+
+<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+
+<br/><br/>
+
+<img width="80%" src="[https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud&theme=tokyonight&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud\&theme=tokyonight\&hide_border=true)" />
+
+</div>
+
+---
+
+
+
+Note: These are live-generated SVG images, not downloadable HD image files. They update automatically as your GitHub activity changes.
 
 
 
