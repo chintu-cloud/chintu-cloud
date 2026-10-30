@@ -173,26 +173,6 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ---
 
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">
