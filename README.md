@@ -198,7 +198,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### ☁️ Cloud Computing
 - ▪️ AWS Advanced Services
@@ -206,7 +206,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Serverless Computing
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### ⚙️ DevOps & DevSecOps
 - ▪️ Docker & Kubernetes
@@ -217,7 +217,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 🚀 Infrastructure Automation
 - ▪️ Terraform Modules
@@ -225,7 +225,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Infrastructure as Code
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 📊 Monitoring & Observability
 - ▪️ Prometheus
@@ -236,7 +236,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 🤖 AI & Generative AI
 - ▪️ Generative AI & LLMs
@@ -245,7 +245,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ LLM Integration
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ### 🧠 Forward Deployed Engineering
 - ▪️ AI Solution Deployment
