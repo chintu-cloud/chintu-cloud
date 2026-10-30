@@ -193,13 +193,11 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </p>
 
 ---
-
-
 ## 📚 Currently Learning
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud Computing
 - ▪️ AWS Advanced Services
@@ -207,7 +205,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Serverless Computing
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ DevOps & DevSecOps
 - ▪️ Docker & Kubernetes
@@ -219,7 +217,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 Infrastructure Automation
 - ▪️ Terraform Modules
@@ -227,7 +225,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Infrastructure as Code
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📊 Monitoring & Observability
 - ▪️ Prometheus
@@ -239,7 +237,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Generative AI
 - ▪️ Generative AI & LLMs
@@ -248,17 +246,16 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ LLM Integration
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity & DevSecOps
-- ▪️ IAM & Access Management
-- ▪️ Security Scanning
-- ▪️ Container Security
-- ▪️ Cloud Security
+### 🧠 Forward Deployed Engineering (FDE)
+- ▪️ AI Solution Deployment
+- ▪️ Full-Stack Integration
+- ▪️ Customer-Centric Engineering
+- ▪️ Production AI Workflows
 
 </td>
 </tr>
-
 </table>
 
 
