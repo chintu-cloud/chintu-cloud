@@ -198,7 +198,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ☁️ Cloud Computing
 - ▪️ AWS Advanced Services
@@ -206,7 +206,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Serverless Computing
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ⚙️ DevOps & DevSecOps
 - ▪️ Docker & Kubernetes
