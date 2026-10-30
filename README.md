@@ -2,9 +2,9 @@
  
  # 👦🏻 👋 𝓱𝓮𝓵𝓵𝓸, 𝓲\'𝓶
  
- <!-- Bold Stylish Red Animated Name -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=36&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
 
 
