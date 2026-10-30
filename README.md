@@ -194,36 +194,6 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 ---
 
-
-
-## 📚 Currently Learning
-
-```yaml
-Cloud:
-  - AWS Advanced Services
-  - Cloud Architecture Patterns
-
-DevOps:
-  - GitOps
-  - ArgoCD
-  - Kubernetes Networking
-
-Automation:
-  - Terraform Modules
-  - Infrastructure Automation
-
-Monitoring:
-  - Advanced Prometheus
-  - Grafana Alerting
-```
-
----
-
-
-
-
-
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/chintu-cloud/chintu-cloud/output/snake.svg" alt="Contribution Snake"/>
@@ -270,6 +240,35 @@ while True:
 </div>
 
 ---
+## 📚 Currently Learning
+
+Cloud:
+  - AWS Advanced Services
+  - Cloud Architecture
+
+DevOps:
+  - Kubernetes
+  - GitOps & ArgoCD
+  - CI/CD Pipelines
+
+Automation:
+  - Terraform Modules
+  - Ansible
+
+Monitoring:
+  - Prometheus
+  - Grafana
+  - Datadog
+
+AI & Emerging Technologies:
+  - FDE (Full-Stack Development Engineering)
+  - RAG (Retrieval-Augmented Generation)
+  - Generative AI
+  - AI Agents
+  - LLM Integration
+
+---
+ 
 ## 🎯 future Goals
 
 ✅ Land a Cloud / DevOps Engineer Role
