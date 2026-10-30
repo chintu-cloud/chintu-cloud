@@ -58,7 +58,7 @@
 </div>
 
 ---
-## 🤝 Let's Build Something Together
+## 📬 Contact Information
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ⚡ Who Am I?
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 💡 Who Am I?
 
 
 
@@ -155,48 +155,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
----
-
-## 🛠️ Technologies I Work With
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="30" height="30" alt="Terraform" />
-  <img src="https://skillicons.dev/icons?i=ansible" width="30" height="30" alt="Ansible" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="30" height="30" alt="Prometheus" />
-  <img src="https://skillicons.dev/icons?i=grafana" width="30" height="30" alt="Grafana" />
-  <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="30" height="30" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="30" height="30" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=helm" width="30" height="30" alt="Helm" />
-  <img src="https://skillicons.dev/icons?i=java" width="30" height="30" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="30" height="30" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="Argo CD" />
-</p>
 
 ---
 
@@ -214,15 +172,6 @@ specialization:
   - CI/CD Automation
 career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ```
-
-## 📬 Contact Information
-
-<p>
-  <a href="mailto:cmohanty154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandan" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C_India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Hyderabad, India" />
-</p>
 
 ---
 
