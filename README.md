@@ -201,7 +201,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 <p align="center">
   <img width="180%" height="50" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="180%" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="80%" height="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -210,7 +210,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 <p align="center">
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
+  <img width="180%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
