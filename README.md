@@ -1,9 +1,6 @@
 <div align="center"> 
    
-
-<h2 align="center">
-  👦🏻 👋 Hi, I'm
-</h2>
+ ## 👦🏻 👋 Hi, I'm
 
 <!-- Purple Animated Name with Different Font -->
 <p align="center">
