@@ -196,12 +196,12 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="50%" height="80" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="50%" height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="80%" height="80" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="80%" height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
