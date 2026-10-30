@@ -196,21 +196,21 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintu-cloud&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="50%" height="80" src="https://github-readme-stats.vercel.app/api?username=chintu-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="50%" height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-streak-stats-eight.vercel.app/?user=chintu-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
