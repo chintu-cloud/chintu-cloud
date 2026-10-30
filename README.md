@@ -194,6 +194,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 ---
 
+
 ## 📚 Currently Learning
 
 <table>
@@ -216,6 +217,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 </td>
 </tr>
+
 <tr>
 <td width="33%" valign="top">
 
@@ -234,17 +236,29 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ AWS CloudWatch
 
 </td>
+</tr>
+
+<tr>
 <td width="33%" valign="top">
 
-### 🤖 AI & FDE
+### 🤖 AI & Generative AI
 - ▪️ Generative AI & LLMs
-- ▪️ RAG
+- ▪️ Retrieval-Augmented Generation (RAG)
 - ▪️ AI Agents
 - ▪️ LLM Integration
-- ▪️ Forward Deployed Engineering
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Cybersecurity & DevSecOps
+- ▪️ IAM & Access Management
+- ▪️ Security Scanning
+- ▪️ Container Security
+- ▪️ Cloud Security
 
 </td>
 </tr>
+
 </table>
 
 
