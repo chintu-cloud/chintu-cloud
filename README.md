@@ -2,8 +2,9 @@
  
  # 👦🏻 👋 𝓱𝓮𝓵𝓵𝓸, 𝓲\'𝓶
 
+<!-- Sekuya Font - Blue Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Betania+Patmos+In&weight=400&size=36&duration=2500&pause=1000&color=E97451&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sekuya&weight=400&size=36&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
 
                                                                                                                                               
