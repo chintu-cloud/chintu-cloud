@@ -198,7 +198,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud Computing
 - ▪️ AWS Advanced Services
@@ -206,7 +206,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Serverless Computing
 
 </td>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ DevOps & DevSecOps
 - ▪️ Docker & Kubernetes
@@ -217,7 +217,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </td>
 </tr>
 <tr>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
 ### 🚀 Infrastructure Automation
 - ▪️ Terraform Modules
@@ -225,7 +225,7 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ Infrastructure as Code
 
 </td>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
 ### 📊 Monitoring & Observability
 - ▪️ Prometheus
@@ -234,36 +234,19 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 - ▪️ AWS CloudWatch
 
 </td>
-</tr>
-<tr>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 AI & Generative AI
+### 🤖 AI & FDE
 - ▪️ Generative AI & LLMs
 - ▪️ RAG
-- ▪️ AI Agent Development
+- ▪️ AI Agents
 - ▪️ LLM Integration
-
-</td>
-<td width="35%" valign="top">
-
-### 🧠 Forward Deployed Engineering
-- ▪️ AI Solution Deployment
-- ▪️ System Integration
-- ▪️ Customer-Centric Engineering
-- ▪️ Production AI Workflows
+- ▪️ Forward Deployed Engineering
 
 </td>
 </tr>
 </table>
 
-```
-
-
-
-GitHub compatible
-
-&#x20;Each subject will appear in its own separate box, arranged in two columns.
 
 ---
 
