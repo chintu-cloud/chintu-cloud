@@ -209,8 +209,8 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintu-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintu-cloud&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
