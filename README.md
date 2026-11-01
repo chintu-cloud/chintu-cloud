@@ -44,6 +44,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
+  <img src="./icons/aws/vpc.svg" width="30" height="30" alt="VPC"/>
   <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
   <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="Kubernetes" />
