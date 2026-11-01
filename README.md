@@ -2,12 +2,10 @@
  
  # 👦🏻 👋 𝓱𝓮𝓵𝓵𝓸, 𝓲\'𝓶
 
-<!-- Sekuya Font - Blue Animated Name -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sekuya&weight=400&size=36&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
-
-                                                                                                                                              
+                                                                                                                                            
 👨‍💻 Cloud & DevOps Engineer
 
 <p align="center">
@@ -93,6 +91,8 @@
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_AWS-Step-Functions_48.svg" width="30" height="30" alt="Step Functions"/>
 </p>
 
+<p align="center">
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF033E&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 
 <br>
