@@ -94,12 +94,6 @@
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_AWS-Step-Functions_48.svg" width="30" height="30" alt="Step Functions"/>
 </p>
 
-
-
-
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF033E&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 
 <br>
