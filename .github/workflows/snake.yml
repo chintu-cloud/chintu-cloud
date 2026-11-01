@@ -1,9 +1,11 @@
-name: Generate Snake
+
+        
+name: Generate Contribution Animation
 
 on:
-  schedule: # Runs every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,9 +13,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -23,8 +26,8 @@ jobs:
           github_user_name: chintu-cloud
           outputs: dist/snake.svg
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push animation to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
