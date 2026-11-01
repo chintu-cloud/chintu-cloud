@@ -3,6 +3,7 @@
 
 # 👦🏻 👋 𝓱𝓮𝓵𝓵𝓸, 𝓲'𝓶
 <img src="https://readme-typing-svg.demolab.com?font=Sekuya&weight=400&size=36&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
+
 ## 👨‍💻 Cloud & DevOps Engineer
 
 </div>
