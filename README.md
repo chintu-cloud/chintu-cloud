@@ -1,31 +1,5 @@
 
-<p align="center">
-  <!-- AWS COMPUTE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="30" alt="EC2"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="30" alt="Lambda"/>
 
-  <!-- STORAGE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="30" alt="S3"/>
-
-  <!-- DATABASE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg" width="30" alt="RDS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg" width="30" alt="DynamoDB"/>
-
-  <!-- NETWORKING -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-VPC_48.svg" width="30" alt="VPC"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="30" alt="CloudFront"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="30" alt="Route53"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="30" alt="ELB"/>
-
-  <!-- SECURITY -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="30" alt="IAM"/>
-
-  <!-- MONITORING -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="30" alt="CloudWatch"/>
-</p>
-
-
-<div align="center"> 
  
  # 👦🏻 👋 𝓱𝓮𝓵𝓵𝓸, 𝓲\'𝓶
 
@@ -44,7 +18,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
-  <img src="./icons/aws/vpc.svg" width="30" height="30" alt="VPC"/>
   <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
   <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="Kubernetes" />
@@ -68,6 +41,37 @@
   <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="Argo CD" />
 </p>
+
+
+
+<p align="center">
+  <!-- AWS COMPUTE -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="30" height="30" alt="EC2" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="30" height="30" alt="Lambda" />
+
+  <!-- AWS STORAGE -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="30" height="30" alt="S3" />
+
+  <!-- AWS DATABASE -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg" width="30" height="30" alt="RDS" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg" width="30" height="30" alt="DynamoDB" />
+
+  <!-- AWS NETWORKING -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-VPC_48.svg" width="30" height="30" alt="VPC" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="30" height="30" alt="CloudFront" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="30" height="30" alt="Route 53" />
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="30" height="30" alt="ELB" />
+
+  <!-- AWS SECURITY -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="30" height="30" alt="IAM" />
+
+  <!-- AWS MONITORING -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="30" height="30" alt="CloudWatch" />
+</p>
+
+
+
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF033E&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
