@@ -133,10 +133,8 @@
 
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 🧑‍🚀 A Little About Me | Beyond the Code
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 🧑‍🚀 A Little About Me 
 
-
-## 🧑‍🚀 A Little About Me
 
 <img align="right" width="300" alt="Cloud and DevOps Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
 
