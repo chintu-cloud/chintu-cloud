@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sekuya&weight=400&size=36&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&height=80&lines=CHANDAN+MOHANTY" alt="CHANDAN MOHANTY" />
 </p>
                                                                                                                                             
-👨‍💻 Cloud & DevOps Engineer
+
 
 <p align="center">
   <b>☁️ LEARN • ⚙️ AUTOMATE • 🔄 DEPLOY • 📊 MONITOR • 🚀 SCALE</b>
 </p>
-
+👨‍💻 Cloud & DevOps Engineer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
