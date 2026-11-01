@@ -132,19 +132,30 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 💡 Who Am I?
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 🧑‍🚀 A Little About Me | Beyond the Code
 
 
+## 🧑‍🚀 A Little About Me
 
-<img align="right" width="300" alt="Cloud and DevOps Engineering Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
+<img align="right" width="300" alt="Cloud and DevOps Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
 
-- ☁️ Passionate about AWS Cloud & DevOps Engineering.
-- ⚙️ Hands-on with Docker, Kubernetes, Terraform & CI/CD.
-- 🚀 Building cloud infrastructure and automation projects.
-- 📈 Exploring GitOps, Argo CD & monitoring tools.
-- 🤝 Open to DevOps collaboration and open-source projects.
+- 👨‍💻 I'm a **Cloud & DevOps Engineer** passionate about cloud technologies and automation.
+- 🎓 MCA Graduate (2025).
+- ☁️ Exploring **AWS Cloud Services** and cloud infrastructure.
+- 🐳 Working with Docker, Kubernetes, and containerization.
+- 🏗️ Learning Infrastructure as Code using Terraform and Ansible.
+- 🚀 Building CI/CD pipelines with Jenkins and GitHub Actions.
+- 🔄 Exploring GitOps, Argo CD, and Kubernetes deployments.
+- 📊 Learning monitoring and observability with Prometheus and Grafana.
+- 💡 Enjoy solving technical challenges and building practical projects.
+- 🤝 Open to collaboration, learning opportunities, and open-source projects.
 
-**🎯 Goal:** Build secure, scalable, and production-ready cloud solutions.
+### 🎯 My Mission
+
+To design, automate, and manage secure, scalable, and reliable cloud infrastructure using modern DevOps practices.
+
+
 
 
 
