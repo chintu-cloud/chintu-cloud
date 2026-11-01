@@ -49,8 +49,6 @@
   <!-- COMPUTE -->
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="30" height="30" alt="EC2"/>
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="30" height="30" alt="Lambda"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-ECS_48.svg" width="30" height="30" alt="ECS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_Amazon-EKS_48.svg" width="30" height="30" alt="EKS"/>
   <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_AWS-Fargate_48.svg" width="30" height="30" alt="Fargate"/>
 
   <!-- STORAGE -->
