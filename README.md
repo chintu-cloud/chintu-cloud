@@ -109,7 +109,6 @@
 
 ---
 ## 📬 connect with me
-
 <p align="center">
   <a href="mailto:cmohanty154@gmail.com">
     <img src="https://img.shields.io/badge/✉️_email-contact-FF4B4B?style=for-the-badge" />
