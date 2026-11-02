@@ -39,14 +39,6 @@
 
 
 <p align="center">
-  <img src="./orbit.svg" width="100%" alt="Chandan Mohanty Technology Orbit"/>
-</p>
-
-
-
-
-
-<p align="center">
  
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&pause=1000&color=800000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG" />
 
@@ -60,7 +52,11 @@
 
 </div>
 
+<p align="center">
+  <img src="./orbit.svg" width="100%" alt="Chandan Mohanty Technology Orbit"/>
+</p>
 ---
+
 ## 📬 connect with me
 <p align="center">
   <a href="mailto:cmohanty154@gmail.com">
