@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" alt="GitLab" />
   <img src="https://skillicons.dev/icons?i=githubactions" width="30" height="30" alt="GitHub Actions" />
   <img src="https://cdn.simpleicons.org/helm/0F1689" width="30" height="30" alt="Helm" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" width="30" height="30" alt="Helm" />
   <img src="https://skillicons.dev/icons?i=java" width="30" height="30" alt="Java" />
   <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="Bash" />
