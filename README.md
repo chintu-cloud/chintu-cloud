@@ -99,6 +99,8 @@
 
 <br>
 
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=visits&color=0D9488&style=for-the-badge&logo=cloudflare&logoColor=white" alt="visits" />
   <img src="https://img.shields.io/github/followers/chintu-cloud?label=network&color=2563EB&style=for-the-badge&logo=linkedin&logoColor=white" alt="network" />
