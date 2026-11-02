@@ -108,11 +108,13 @@
 </div>
 
  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=visitors&color=6366F1&style=flat-square&logo=googleanalytics&logoColor=white" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/chintu-cloud?label=developers&color=14B8A6&style=flat-square&logo=githubsponsors&logoColor=white" alt="developers" />
-  <img src="https://img.shields.io/github/stars/chintu-cloud?label=repository%20stars&color=F97316&style=flat-square&logo=apachespark&logoColor=white" alt="repository stars" />
+  <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=visits&color=0D9488&style=for-the-badge&logo=cloudflare&logoColor=white" alt="visits" />
+  <img src="https://img.shields.io/github/followers/chintu-cloud?label=network&color=2563EB&style=for-the-badge&logo=linkedin&logoColor=white" alt="network" />
+  <img src="https://img.shields.io/github/stars/chintu-cloud?label=achievements&color=DB2777&style=for-the-badge&logo=githubactions&logoColor=white" alt="achievements" />
 </p>
+
 
 ---
 ## 📬 Contact Information
