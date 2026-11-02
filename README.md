@@ -317,9 +317,8 @@ career_goal: Building Secure, Scalable & Reliable Cloud Solutions
 
 
 <p align="center">
-  <img src="./orbit.svg" width="100%" alt="Chandan Mohanty AWS and DevOps Orbit"/>
+  <img src="./orbit.svg" width="100%" alt="AWS DevOps Orbit"/>
 </p>
-
 
 ## 🐍 Contribution Snake
 <p align="center">
