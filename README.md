@@ -99,22 +99,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/chintu-cloud?style=for-the-badge&color=0891b2&label=Followers" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/chintu-cloud?style=for-the-badge&color=f59e0b&label=Stars" alt="Stars"/>
-
-</div>
-
- 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=visits&color=0D9488&style=for-the-badge&logo=cloudflare&logoColor=white" alt="visits" />
   <img src="https://img.shields.io/github/followers/chintu-cloud?label=network&color=2563EB&style=for-the-badge&logo=linkedin&logoColor=white" alt="network" />
   <img src="https://img.shields.io/github/stars/chintu-cloud?label=achievements&color=DB2777&style=for-the-badge&logo=githubactions&logoColor=white" alt="achievements" />
 </p>
 
+</div>
 
 ---
 ## 📬 Contact Information
