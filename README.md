@@ -120,9 +120,9 @@
   <a href="https://gitlab.com/chintu-cloud">
     <img src="https://img.shields.io/badge/🦊_gitlab-repositories-FC6D26?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/chandan-mohanty">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/chandan-o/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 </div>
