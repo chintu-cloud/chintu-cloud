@@ -108,9 +108,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=visitors&color=7C3AED&style=flat-square" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/chintu-cloud?label=community&color=0EA5E9&style=flat-square&logo=github" alt="community" />
-  <img src="https://img.shields.io/github/stars/chintu-cloud?label=stars&color=EAB308&style=flat-square&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=chintu-cloud&label=profile%20views&color=8B5CF6&style=for-the-badge&logo=eye&logoColor=white" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/chintu-cloud?label=followers&color=06B6D4&style=for-the-badge&logo=people&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/stars/chintu-cloud?label=stars&color=F59E0B&style=for-the-badge&logo=starship&logoColor=white" alt="stars" />
 </p>
 
 ---
