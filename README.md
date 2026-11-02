@@ -53,7 +53,7 @@
 </div>
 
 <p align="center">
-  <img src="./orbit.svg" width="100%" alt="Chandan Mohanty Technology Orbit"/>
+  <img src="./orbit.svg" width="50%" alt="Chandan Mohanty Technology Orbit"/>
 </p>
 
 ---
