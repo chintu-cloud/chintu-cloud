@@ -14,83 +14,84 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="Jenkins" />
-  <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="30" height="30" alt="Terraform" />
-  <img src="https://skillicons.dev/icons?i=ansible" width="30" height="30" alt="Ansible" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="30" height="30" alt="Prometheus" />
-  <img src="https://skillicons.dev/icons?i=grafana" width="30" height="30" alt="Grafana" />
-  <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="30" height="30" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="30" height="30" alt="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" width="30" height="30" alt="Helm" />
-  <img src="https://skillicons.dev/icons?i=java" width="30" height="30" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="30" height="30" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="Argo CD" />
+  <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="aws" /> aws
+  <img src="https://skillicons.dev/icons?i=jenkins" width="30" height="30" alt="jenkins" /> jenkins
+  <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="docker" /> docker
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="kubernetes" /> kubernetes
+  <img src="https://skillicons.dev/icons?i=terraform" width="30" height="30" alt="terraform" /> terraform
+  <img src="https://skillicons.dev/icons?i=ansible" width="30" height="30" alt="ansible" /> ansible
+  <img src="https://skillicons.dev/icons?i=prometheus" width="30" height="30" alt="prometheus" /> prometheus
+  <img src="https://skillicons.dev/icons?i=grafana" width="30" height="30" alt="grafana" /> grafana
+  <img src="https://skillicons.dev/icons?i=python" width="30" height="30" alt="python" /> python
+  <img src="https://skillicons.dev/icons?i=linux" width="30" height="30" alt="linux" /> linux
+  <img src="https://skillicons.dev/icons?i=nginx" width="30" height="30" alt="nginx" /> nginx
+  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" alt="git" /> git
+  <img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="github" /> github
+  <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" alt="gitlab" /> gitlab
+  <img src="https://skillicons.dev/icons?i=githubactions" width="30" height="30" alt="github actions" /> github actions
+  <img src="https://cdn.simpleicons.org/helm/0F1689" width="30" height="30" alt="helm" /> helm
+  <img src="https://skillicons.dev/icons?i=java" width="30" height="30" alt="java" /> java
+  <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" alt="javascript" /> javascript
+  <img src="https://skillicons.dev/icons?i=bash" width="30" height="30" alt="bash" /> bash
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="30" height="30" alt="ubuntu" /> ubuntu
+  <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="vs code" /> vs code
+  <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="postman" /> postman
+  <img src="https://skillicons.dev/icons?i=argo" width="30" height="30" alt="argo cd" /> argo cd
 </p>
 
 
 
-
 <p align="center">
-  <!-- COMPUTE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="30" height="30" alt="EC2"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="30" height="30" alt="Lambda"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_AWS-Fargate_48.svg" width="30" height="30" alt="Fargate"/>
+  <!-- compute -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="30" height="30" alt="ec2"/> ec2
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_AWS-Lambda_48.svg" width="30" height="30" alt="lambda"/> lambda
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Containers/48/Arch_AWS-Fargate_48.svg" width="30" height="30" alt="fargate"/> fargate
 
-  <!-- STORAGE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="30" height="30" alt="S3"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Elastic-Block-Store_48.svg" width="30" height="30" alt="EBS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-EFS_48.svg" width="30" height="30" alt="EFS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_AWS-Storage-Gateway_48.svg" width="30" height="30" alt="Storage Gateway"/>
+  <!-- storage -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="30" height="30" alt="s3"/> s3
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Elastic-Block-Store_48.svg" width="30" height="30" alt="ebs"/> ebs
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-EFS_48.svg" width="30" height="30" alt="efs"/> efs
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_AWS-Storage-Gateway_48.svg" width="30" height="30" alt="storage gateway"/> storage gateway
 
-  <!-- DATABASE -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg" width="30" height="30" alt="RDS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-Aurora_48.svg" width="30" height="30" alt="Aurora"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg" width="30" height="30" alt="DynamoDB"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-ElastiCache_48.svg" width="30" height="30" alt="ElastiCache"/>
+  <!-- database -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-RDS_48.svg" width="30" height="30" alt="rds"/> rds
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-Aurora_48.svg" width="30" height="30" alt="aurora"/> aurora
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-DynamoDB_48.svg" width="30" height="30" alt="dynamodb"/> dynamodb
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Database/48/Arch_Amazon-ElastiCache_48.svg" width="30" height="30" alt="elasticache"/> elasticache
 
-  <!-- NETWORKING -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="30" height="30" alt="CloudFront"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="30" height="30" alt="Route 53"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="30" height="30" alt="ELB"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-API-Gateway_48.svg" width="30" height="30" alt="API Gateway"/>
+  <!-- networking -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.svg" width="30" height="30" alt="cloudfront"/> cloudfront
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.svg" width="30" height="30" alt="route 53"/> route 53
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="30" height="30" alt="elb"/> elb
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-API-Gateway_48.svg" width="30" height="30" alt="api gateway"/> api gateway
 
-  <!-- SECURITY -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="30" height="30" alt="IAM"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Key-Management-Service_48.svg" width="30" height="30" alt="KMS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.svg" width="30" height="30" alt="WAF"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Secrets-Manager_48.svg" width="30" height="30" alt="Secrets Manager"/>
+  <!-- security -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="30" height="30" alt="iam"/> iam
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Key-Management-Service_48.svg" width="30" height="30" alt="kms"/> kms
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.svg" width="30" height="30" alt="waf"/> waf
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Secrets-Manager_48.svg" width="30" height="30" alt="secrets manager"/> secrets manager
 
-  <!-- MONITORING & MANAGEMENT -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="30" height="30" alt="CloudWatch"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudTrail_48.svg" width="30" height="30" alt="CloudTrail"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudFormation_48.svg" width="30" height="30" alt="CloudFormation"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-Systems-Manager_48.svg" width="30" height="30" alt="Systems Manager"/>
+  <!-- monitoring and management -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="30" height="30" alt="cloudwatch"/> cloudwatch
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudTrail_48.svg" width="30" height="30" alt="cloudtrail"/> cloudtrail
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-CloudFormation_48.svg" width="30" height="30" alt="cloudformation"/> cloudformation
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_AWS-Systems-Manager_48.svg" width="30" height="30" alt="systems manager"/> systems manager
 
-  <!-- DEVOPS -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeBuild_48.svg" width="30" height="30" alt="CodeBuild"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeDeploy_48.svg" width="30" height="30" alt="CodeDeploy"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodePipeline_48.svg" width="30" height="30" alt="CodePipeline"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeCommit_48.svg" width="30" height="30" alt="CodeCommit"/>
+  <!-- devops -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeBuild_48.svg" width="30" height="30" alt="codebuild"/> codebuild
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeDeploy_48.svg" width="30" height="30" alt="codedeploy"/> codedeploy
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodePipeline_48.svg" width="30" height="30" alt="codepipeline"/> codepipeline
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Developer-Tools/48/Arch_AWS-CodeCommit_48.svg" width="30" height="30" alt="codecommit"/> codecommit
 
-  <!-- INTEGRATION -->
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-Simple-Queue-Service_48.svg" width="30" height="30" alt="SQS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="30" height="30" alt="SNS"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-EventBridge_48.svg" width="30" height="30" alt="EventBridge"/>
-  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_AWS-Step-Functions_48.svg" width="30" height="30" alt="Step Functions"/>
+  <!-- integration -->
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-Simple-Queue-Service_48.svg" width="30" height="30" alt="sqs"/> sqs
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="30" height="30" alt="sns"/> sns
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_Amazon-EventBridge_48.svg" width="30" height="30" alt="eventbridge"/> eventbridge
+  <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_App-Integration/48/Arch_AWS-Step-Functions_48.svg" width="30" height="30" alt="step functions"/> step functions
 </p>
+---
 
 <p align="center">
  
