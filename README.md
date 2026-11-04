@@ -332,3 +332,8 @@ while True:
 # 🛒 E-Commerce Application Workflow 
 
 <img width="1313" height="976" alt="E-commerce applications" src="https://github.com/user-attachments/assets/3e142363-fa0a-417a-8b0b-295ca1a65ac1" />
+
+# 🛠️ End-to-End CI/CD Workflow for Kubernetes Deployment 🐳☸️🚢
+
+<img width="1310" height="583" alt="argocd" src="https://github.com/user-attachments/assets/bba8edfa-6d4e-4a9b-988d-1b2eca39633f" />
+
