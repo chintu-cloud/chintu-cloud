@@ -339,3 +339,10 @@ while True:
 
 <img width="1000" height="450" alt="argocd" src="https://github.com/user-attachments/assets/bba8edfa-6d4e-4a9b-988d-1b2eca39633f" />
 
+---
+
+# 🔄CI/CD Pipeline Workflow: From Code Commit to Production Deployment
+
+<img width="800" height="1040" alt="1766049542887" src="https://github.com/user-attachments/assets/619ec016-4b35-4c32-bb79-9c09099e2585" />
+
+
