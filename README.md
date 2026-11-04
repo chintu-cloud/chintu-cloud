@@ -335,5 +335,5 @@ while True:
 
 # 🛠️ End-to-End CI/CD Workflow for Kubernetes Deployment 🐳☸️🚢
 
-<img width="800" height="500" alt="argocd" src="https://github.com/user-attachments/assets/bba8edfa-6d4e-4a9b-988d-1b2eca39633f" />
+<img width="1000" height="450" alt="argocd" src="https://github.com/user-attachments/assets/bba8edfa-6d4e-4a9b-988d-1b2eca39633f" />
 
