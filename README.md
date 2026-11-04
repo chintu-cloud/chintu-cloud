@@ -327,3 +327,8 @@ while True:
 ✅ Strengthen GitOps & Platform Engineering Skills
 
 ---
+
+
+# 🛒 E-Commerce Application Workflow 
+
+<img width="1313" height="976" alt="E-commerce applications" src="https://github.com/user-attachments/assets/3e142363-fa0a-417a-8b0b-295ca1a65ac1" />
