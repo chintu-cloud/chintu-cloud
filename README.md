@@ -326,8 +326,8 @@ while True:
 
 
 # 🛒 E-Commerce Application Workflow 
+<img width="1449" height="976" alt="Untitled Diagram drawio (7)" src="https://github.com/user-attachments/assets/7cf45244-d488-45da-8d65-bcbb7b85b065" />
 
-<img width="1500" height="1000" alt="E-commerce applications" src="https://github.com/user-attachments/assets/3e142363-fa0a-417a-8b0b-295ca1a65ac1" />
 
 ---
 
