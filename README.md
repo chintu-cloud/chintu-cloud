@@ -80,29 +80,25 @@
 
 
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 🧑‍🚀 A Little About Me 
-
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ## 🧑‍🚀 A Little About Me
 
 <img align="right" width="300" alt="Cloud and DevOps Animation" src="https://user-images.githubusercontent.com/74038190/212744275-2b340db0-59b8-4872-8b6e-ff9f4b8d3e30.gif" />
 
-- 👨‍💻 I'm a **Cloud & DevOps Engineer** passionate about cloud technologies and automation.
-- 🎓 MCA Graduate (2025).
-- ☁️ Exploring **AWS Cloud Services** and cloud infrastructure.
-- 🐳 Working with Docker, Kubernetes, and containerization.
-- 🏗️ Learning Infrastructure as Code using Terraform and Ansible.
-- 🚀 Building CI/CD pipelines with Jenkins and GitHub Actions.
-- 🔄 Exploring GitOps, Argo CD, and Kubernetes deployments.
-- 📊 Learning monitoring and observability with Prometheus and Grafana.
-- 💡 Enjoy solving technical challenges and building practical projects.
-- 🤝 Open to collaboration, learning opportunities, and open-source projects.
+- 🚀 Passionate **Cloud & DevOps Engineer** focused on automation and cloud technologies.
+- ☁️ Exploring **AWS** to build secure and scalable cloud infrastructure.
+- 🐳 Working with **Docker and Kubernetes** for containerization and orchestration.
+- 🏗️ Automating infrastructure using **Terraform and Ansible**.
+- ⚙️ Building CI/CD pipelines with **Jenkins and GitHub Actions**.
+- 🔄 Exploring **GitOps and Argo CD** for continuous deployment.
+- 📊 Implementing monitoring with **Prometheus and Grafana**.
+- 💡 Learning through hands-on projects and solving real-world technical challenges.
+- 🤝 Open to collaboration, knowledge sharing, and new opportunities.
 
 ### 🎯 My Mission
 
-To design, automate, and manage secure, scalable, and reliable cloud infrastructure using modern DevOps practices.
+To turn ideas into reliable cloud solutions through automation, continuous learning, and modern DevOps practices. ☁️🚀
 
-
-
-
+<br clear="right"/>
 
 ---
 
