@@ -327,7 +327,7 @@ while True:
 
 # 🛒 E-Commerce Application Workflow 
 
-<img width="1800" height="998" alt="E-commerce application architecture" src="https://github.com/user-attachments/assets/368bb24e-b82f-40b1-9aaf-710e17e99a6f" />
+<img width="1800" height="1100" alt="E-commerce application architecture" src="https://github.com/user-attachments/assets/368bb24e-b82f-40b1-9aaf-710e17e99a6f" />
 
 ---
 
